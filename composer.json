@@ -1,0 +1,6 @@
+{
+    "require": {
+        "gigaai/framework": "dev-master",
+        "cache/cache": "^1.0"
+    }
+}

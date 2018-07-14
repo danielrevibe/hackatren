@@ -1,0 +1,1049 @@
+[29-Nov-2017 20:12:33 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function updateData() in /home/bini1010/public_html/kitcheno_mechanics/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code:2
+Stack trace:
+#0 [internal function]: {closure}(Object(GigaAI\MessengerBot), '212232884778089...', '')
+#1 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/MessengerBot.php(202): call_user_func_array(Object(Closure), Array)
+#2 [internal function]: GigaAI\MessengerBot->GigaAI\{closure}(Object(Closure))
+#3 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Core/DynamicParser.php(35): call_user_func_array(Object(Closure), Array)
+#4 [internal function]: GigaAI\Core\DynamicParser->parse(Array)
+#5 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Shared/EasyCall.php(21): call_user_func_array(Array, Array)
+#6 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Shared/EasyCall.php(35): GigaAI\Core\DynamicParser->__call('parse', Array)
+#7 /home in /home/bini1010/public_html/kitcheno_mechanics/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code on line 2
+[29-Nov-2017 20:12:47 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function updateData() in /home/bini1010/public_html/kitcheno_mechanics/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code:2
+Stack trace:
+#0 [internal function]: {closure}(Object(GigaAI\MessengerBot), '212232884778089...', '')
+#1 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/MessengerBot.php(202): call_user_func_array(Object(Closure), Array)
+#2 [internal function]: GigaAI\MessengerBot->GigaAI\{closure}(Object(Closure))
+#3 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Core/DynamicParser.php(35): call_user_func_array(Object(Closure), Array)
+#4 [internal function]: GigaAI\Core\DynamicParser->parse(Array)
+#5 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Shared/EasyCall.php(21): call_user_func_array(Array, Array)
+#6 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Shared/EasyCall.php(35): GigaAI\Core\DynamicParser->__call('parse', Array)
+#7 /home in /home/bini1010/public_html/kitcheno_mechanics/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code on line 2
+[29-Nov-2017 20:13:17 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function updateData() in /home/bini1010/public_html/kitcheno_mechanics/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code:2
+Stack trace:
+#0 [internal function]: {closure}(Object(GigaAI\MessengerBot), '212232884778089...', '')
+#1 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/MessengerBot.php(202): call_user_func_array(Object(Closure), Array)
+#2 [internal function]: GigaAI\MessengerBot->GigaAI\{closure}(Object(Closure))
+#3 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Core/DynamicParser.php(35): call_user_func_array(Object(Closure), Array)
+#4 [internal function]: GigaAI\Core\DynamicParser->parse(Array)
+#5 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Shared/EasyCall.php(21): call_user_func_array(Array, Array)
+#6 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Shared/EasyCall.php(35): GigaAI\Core\DynamicParser->__call('parse', Array)
+#7 /home in /home/bini1010/public_html/kitcheno_mechanics/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code on line 2
+[29-Nov-2017 20:13:28 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function updateData() in /home/bini1010/public_html/kitcheno_mechanics/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code:2
+Stack trace:
+#0 [internal function]: {closure}(Object(GigaAI\MessengerBot), '212232884778089...', '')
+#1 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/MessengerBot.php(202): call_user_func_array(Object(Closure), Array)
+#2 [internal function]: GigaAI\MessengerBot->GigaAI\{closure}(Object(Closure))
+#3 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Core/DynamicParser.php(35): call_user_func_array(Object(Closure), Array)
+#4 [internal function]: GigaAI\Core\DynamicParser->parse(Array)
+#5 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Shared/EasyCall.php(21): call_user_func_array(Array, Array)
+#6 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Shared/EasyCall.php(35): GigaAI\Core\DynamicParser->__call('parse', Array)
+#7 /home in /home/bini1010/public_html/kitcheno_mechanics/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code on line 2
+[29-Nov-2017 20:31:57 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function updateData() in /home/bini1010/public_html/kitcheno_mechanics/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code:2
+Stack trace:
+#0 [internal function]: {closure}(Object(GigaAI\MessengerBot), '212232884778089...', '')
+#1 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/MessengerBot.php(202): call_user_func_array(Object(Closure), Array)
+#2 [internal function]: GigaAI\MessengerBot->GigaAI\{closure}(Object(Closure))
+#3 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Core/DynamicParser.php(35): call_user_func_array(Object(Closure), Array)
+#4 [internal function]: GigaAI\Core\DynamicParser->parse(Array)
+#5 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Shared/EasyCall.php(21): call_user_func_array(Array, Array)
+#6 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Shared/EasyCall.php(35): GigaAI\Core\DynamicParser->__call('parse', Array)
+#7 /home in /home/bini1010/public_html/kitcheno_mechanics/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code on line 2
+[29-Nov-2017 22:39:52 Asia/Manila] PHP Parse error:  syntax error, unexpected 'categories_listener' (T_STRING), expecting function (T_FUNCTION) in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/Main.php on line 671
+[29-Nov-2017 09:39:38 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'GigaAI\helpers\Main' not found in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/MessengerBot.php:113
+Stack trace:
+#0 /home/bini1010/public_html/kitcheno_mechanics/bootstrap/bot.php(38): GigaAI\MessengerBot->__construct()
+#1 /home/bini1010/public_html/kitcheno_mechanics/public/index.php(11): require_once('/home/bini1010/...')
+#2 {main}
+  thrown in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/MessengerBot.php on line 113
+[30-Nov-2017 00:46:06 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/extra.php:36
+Stack trace:
+#0 /home/bini1010/public_html/kitcheno_mechanics/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code(5): mapNearest(NULL, NULL)
+#1 [internal function]: GigaAI\helpers\Main->{closure}(Object(GigaAI\MessengerBot), '148125221857875...', '')
+#2 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/MessengerBot.php(202): call_user_func_array(Object(Closure), Array)
+#3 [internal function]: GigaAI\MessengerBot->GigaAI\{closure}(Object(Closure))
+#4 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Core/DynamicParser.php(35): call_user_func_array(Object(Closure), Array)
+#5 [internal function]: GigaAI\Core\DynamicParser->parse(Array)
+#6 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Shared/EasyCall.php(21): call_user_func_array(Array, Array)
+ in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/extra.php on line 36
+[30-Nov-2017 01:27:28 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/extra.php:36
+Stack trace:
+#0 /home/bini1010/public_html/kitcheno_mechanics/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code(5): mapNearest(NULL, NULL)
+#1 [internal function]: GigaAI\helpers\Main->{closure}(Object(GigaAI\MessengerBot), '212232884778089...', '')
+#2 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/MessengerBot.php(202): call_user_func_array(Object(Closure), Array)
+#3 [internal function]: GigaAI\MessengerBot->GigaAI\{closure}(Object(Closure))
+#4 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Core/DynamicParser.php(35): call_user_func_array(Object(Closure), Array)
+#5 [internal function]: GigaAI\Core\DynamicParser->parse(Array)
+#6 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Shared/EasyCall.php(21): call_user_func_array(Array, Array)
+ in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/extra.php on line 36
+[30-Nov-2017 01:29:49 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/extra.php:36
+Stack trace:
+#0 /home/bini1010/public_html/kitcheno_mechanics/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code(5): mapNearest(NULL, NULL)
+#1 [internal function]: GigaAI\helpers\Main->{closure}(Object(GigaAI\MessengerBot), '212232884778089...', '')
+#2 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/MessengerBot.php(202): call_user_func_array(Object(Closure), Array)
+#3 [internal function]: GigaAI\MessengerBot->GigaAI\{closure}(Object(Closure))
+#4 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Core/DynamicParser.php(35): call_user_func_array(Object(Closure), Array)
+#5 [internal function]: GigaAI\Core\DynamicParser->parse(Array)
+#6 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Shared/EasyCall.php(21): call_user_func_array(Array, Array)
+ in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/extra.php on line 36
+[30-Nov-2017 01:31:15 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/extra.php:36
+Stack trace:
+#0 /home/bini1010/public_html/kitcheno_mechanics/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code(5): mapNearest(NULL, NULL)
+#1 [internal function]: GigaAI\helpers\Main->{closure}(Object(GigaAI\MessengerBot), '212232884778089...', '')
+#2 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/MessengerBot.php(202): call_user_func_array(Object(Closure), Array)
+#3 [internal function]: GigaAI\MessengerBot->GigaAI\{closure}(Object(Closure))
+#4 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Core/DynamicParser.php(35): call_user_func_array(Object(Closure), Array)
+#5 [internal function]: GigaAI\Core\DynamicParser->parse(Array)
+#6 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Shared/EasyCall.php(21): call_user_func_array(Array, Array)
+ in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/extra.php on line 36
+[30-Nov-2017 01:33:09 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/extra.php:36
+Stack trace:
+#0 /home/bini1010/public_html/kitcheno_mechanics/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code(5): mapNearest(NULL, NULL)
+#1 [internal function]: GigaAI\helpers\Main->{closure}(Object(GigaAI\MessengerBot), '212232884778089...', '')
+#2 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/MessengerBot.php(202): call_user_func_array(Object(Closure), Array)
+#3 [internal function]: GigaAI\MessengerBot->GigaAI\{closure}(Object(Closure))
+#4 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Core/DynamicParser.php(35): call_user_func_array(Object(Closure), Array)
+#5 [internal function]: GigaAI\Core\DynamicParser->parse(Array)
+#6 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Shared/EasyCall.php(21): call_user_func_array(Array, Array)
+ in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/extra.php on line 36
+[30-Nov-2017 01:50:08 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/extra.php:36
+Stack trace:
+#0 /home/bini1010/public_html/kitcheno_mechanics/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code(5): mapNearest(NULL, NULL)
+#1 [internal function]: GigaAI\helpers\Main->{closure}(Object(GigaAI\MessengerBot), '212232884778089...', '')
+#2 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/MessengerBot.php(202): call_user_func_array(Object(Closure), Array)
+#3 [internal function]: GigaAI\MessengerBot->GigaAI\{closure}(Object(Closure))
+#4 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Core/DynamicParser.php(35): call_user_func_array(Object(Closure), Array)
+#5 [internal function]: GigaAI\Core\DynamicParser->parse(Array)
+#6 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Shared/EasyCall.php(21): call_user_func_array(Array, Array)
+ in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/extra.php on line 36
+[30-Nov-2017 01:50:30 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/extra.php:36
+Stack trace:
+#0 /home/bini1010/public_html/kitcheno_mechanics/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code(5): mapNearest(NULL, NULL)
+#1 [internal function]: GigaAI\helpers\Main->{closure}(Object(GigaAI\MessengerBot), '212232884778089...', '')
+#2 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/MessengerBot.php(202): call_user_func_array(Object(Closure), Array)
+#3 [internal function]: GigaAI\MessengerBot->GigaAI\{closure}(Object(Closure))
+#4 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Core/DynamicParser.php(35): call_user_func_array(Object(Closure), Array)
+#5 [internal function]: GigaAI\Core\DynamicParser->parse(Array)
+#6 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Shared/EasyCall.php(21): call_user_func_array(Array, Array)
+ in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/extra.php on line 36
+[30-Nov-2017 01:53:31 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/extra.php:36
+Stack trace:
+#0 /home/bini1010/public_html/kitcheno_mechanics/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code(5): mapNearest(NULL, NULL)
+#1 [internal function]: GigaAI\helpers\Main->{closure}(Object(GigaAI\MessengerBot), '212232884778089...', '')
+#2 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/MessengerBot.php(202): call_user_func_array(Object(Closure), Array)
+#3 [internal function]: GigaAI\MessengerBot->GigaAI\{closure}(Object(Closure))
+#4 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Core/DynamicParser.php(35): call_user_func_array(Object(Closure), Array)
+#5 [internal function]: GigaAI\Core\DynamicParser->parse(Array)
+#6 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Shared/EasyCall.php(21): call_user_func_array(Array, Array)
+ in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/extra.php on line 36
+[30-Nov-2017 01:54:58 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/extra.php:36
+Stack trace:
+#0 /home/bini1010/public_html/kitcheno_mechanics/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code(5): mapNearest(NULL, NULL)
+#1 [internal function]: GigaAI\helpers\Main->{closure}(Object(GigaAI\MessengerBot), '212232884778089...', '')
+#2 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/MessengerBot.php(202): call_user_func_array(Object(Closure), Array)
+#3 [internal function]: GigaAI\MessengerBot->GigaAI\{closure}(Object(Closure))
+#4 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Core/DynamicParser.php(35): call_user_func_array(Object(Closure), Array)
+#5 [internal function]: GigaAI\Core\DynamicParser->parse(Array)
+#6 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Shared/EasyCall.php(21): call_user_func_array(Array, Array)
+ in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/extra.php on line 36
+[30-Nov-2017 01:58:03 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/extra.php:36
+Stack trace:
+#0 /home/bini1010/public_html/kitcheno_mechanics/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code(5): mapNearest(NULL, NULL)
+#1 [internal function]: GigaAI\helpers\Main->{closure}(Object(GigaAI\MessengerBot), '212232884778089...', '')
+#2 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/MessengerBot.php(202): call_user_func_array(Object(Closure), Array)
+#3 [internal function]: GigaAI\MessengerBot->GigaAI\{closure}(Object(Closure))
+#4 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Core/DynamicParser.php(35): call_user_func_array(Object(Closure), Array)
+#5 [internal function]: GigaAI\Core\DynamicParser->parse(Array)
+#6 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Shared/EasyCall.php(21): call_user_func_array(Array, Array)
+ in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/extra.php on line 36
+[30-Nov-2017 02:06:23 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined method GigaAI\helpers\Main::updateCustomer() in /home/bini1010/public_html/kitcheno_mechanics/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code:2
+Stack trace:
+#0 [internal function]: GigaAI\helpers\Main->{closure}(Object(GigaAI\MessengerBot), '212232884778089...', '')
+#1 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/MessengerBot.php(202): call_user_func_array(Object(Closure), Array)
+#2 [internal function]: GigaAI\MessengerBot->GigaAI\{closure}(Object(Closure))
+#3 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Core/DynamicParser.php(35): call_user_func_array(Object(Closure), Array)
+#4 [internal function]: GigaAI\Core\DynamicParser->parse(Array)
+#5 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Shared/EasyCall.php(21): call_user_func_array(Array, Array)
+#6 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Shared/EasyCall.php(35): GigaAI\Core\Dy in /home/bini1010/public_html/kitcheno_mechanics/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code on line 2
+[30-Nov-2017 02:06:28 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined method GigaAI\helpers\Main::updateCustomer() in /home/bini1010/public_html/kitcheno_mechanics/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code:2
+Stack trace:
+#0 [internal function]: GigaAI\helpers\Main->{closure}(Object(GigaAI\MessengerBot), '212232884778089...', '')
+#1 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/MessengerBot.php(202): call_user_func_array(Object(Closure), Array)
+#2 [internal function]: GigaAI\MessengerBot->GigaAI\{closure}(Object(Closure))
+#3 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Core/DynamicParser.php(35): call_user_func_array(Object(Closure), Array)
+#4 [internal function]: GigaAI\Core\DynamicParser->parse(Array)
+#5 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Shared/EasyCall.php(21): call_user_func_array(Array, Array)
+#6 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Shared/EasyCall.php(35): GigaAI\Core\Dy in /home/bini1010/public_html/kitcheno_mechanics/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code on line 2
+[30-Nov-2017 02:10:42 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/extra.php:36
+Stack trace:
+#0 /home/bini1010/public_html/kitcheno_mechanics/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code(6): mapNearest(NULL, NULL)
+#1 [internal function]: GigaAI\helpers\Main->{closure}(Object(GigaAI\MessengerBot), '212232884778089...', '')
+#2 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/MessengerBot.php(202): call_user_func_array(Object(Closure), Array)
+#3 [internal function]: GigaAI\MessengerBot->GigaAI\{closure}(Object(Closure))
+#4 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Core/DynamicParser.php(35): call_user_func_array(Object(Closure), Array)
+#5 [internal function]: GigaAI\Core\DynamicParser->parse(Array)
+#6 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Shared/EasyCall.php(21): call_user_func_array(Array, Array)
+ in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/extra.php on line 36
+[30-Nov-2017 02:12:34 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/extra.php:36
+Stack trace:
+#0 /home/bini1010/public_html/kitcheno_mechanics/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code(7): mapNearest(NULL, NULL)
+#1 [internal function]: GigaAI\helpers\Main->{closure}(Object(GigaAI\MessengerBot), '212232884778089...', '')
+#2 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/MessengerBot.php(202): call_user_func_array(Object(Closure), Array)
+#3 [internal function]: GigaAI\MessengerBot->GigaAI\{closure}(Object(Closure))
+#4 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Core/DynamicParser.php(35): call_user_func_array(Object(Closure), Array)
+#5 [internal function]: GigaAI\Core\DynamicParser->parse(Array)
+#6 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Shared/EasyCall.php(21): call_user_func_array(Array, Array)
+ in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/extra.php on line 36
+[30-Nov-2017 02:15:27 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/extra.php:36
+Stack trace:
+#0 /home/bini1010/public_html/kitcheno_mechanics/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code(7): mapNearest(NULL, NULL)
+#1 [internal function]: GigaAI\helpers\Main->{closure}(Object(GigaAI\MessengerBot), '212232884778089...', '')
+#2 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/MessengerBot.php(202): call_user_func_array(Object(Closure), Array)
+#3 [internal function]: GigaAI\MessengerBot->GigaAI\{closure}(Object(Closure))
+#4 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Core/DynamicParser.php(35): call_user_func_array(Object(Closure), Array)
+#5 [internal function]: GigaAI\Core\DynamicParser->parse(Array)
+#6 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Shared/EasyCall.php(21): call_user_func_array(Array, Array)
+ in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/extra.php on line 36
+[30-Nov-2017 02:17:08 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/extra.php:36
+Stack trace:
+#0 /home/bini1010/public_html/kitcheno_mechanics/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code(9): mapNearest(NULL, NULL)
+#1 [internal function]: GigaAI\helpers\Main->{closure}(Object(GigaAI\MessengerBot), '212232884778089...', '')
+#2 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/MessengerBot.php(202): call_user_func_array(Object(Closure), Array)
+#3 [internal function]: GigaAI\MessengerBot->GigaAI\{closure}(Object(Closure))
+#4 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Core/DynamicParser.php(35): call_user_func_array(Object(Closure), Array)
+#5 [internal function]: GigaAI\Core\DynamicParser->parse(Array)
+#6 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Shared/EasyCall.php(21): call_user_func_array(Array, Array)
+ in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/extra.php on line 36
+[30-Nov-2017 02:18:21 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/extra.php:36
+Stack trace:
+#0 /home/bini1010/public_html/kitcheno_mechanics/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code(6): mapNearest(NULL, NULL)
+#1 [internal function]: GigaAI\helpers\Main->{closure}(Object(GigaAI\MessengerBot), '212232884778089...', '')
+#2 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/MessengerBot.php(202): call_user_func_array(Object(Closure), Array)
+#3 [internal function]: GigaAI\MessengerBot->GigaAI\{closure}(Object(Closure))
+#4 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Core/DynamicParser.php(35): call_user_func_array(Object(Closure), Array)
+#5 [internal function]: GigaAI\Core\DynamicParser->parse(Array)
+#6 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Shared/EasyCall.php(21): call_user_func_array(Array, Array)
+ in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/extra.php on line 36
+[30-Nov-2017 08:27:04 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/extra.php:36
+Stack trace:
+#0 /home/bini1010/public_html/kitcheno_mechanics/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code(7): mapNearest(NULL, NULL)
+#1 [internal function]: GigaAI\helpers\Main->{closure}(Object(GigaAI\MessengerBot), '212232884778089...', '')
+#2 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/MessengerBot.php(202): call_user_func_array(Object(Closure), Array)
+#3 [internal function]: GigaAI\MessengerBot->GigaAI\{closure}(Object(Closure))
+#4 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Core/DynamicParser.php(35): call_user_func_array(Object(Closure), Array)
+#5 [internal function]: GigaAI\Core\DynamicParser->parse(Array)
+#6 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Shared/EasyCall.php(21): call_user_func_array(Array, Array)
+ in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/extra.php on line 36
+[30-Nov-2017 09:38:25 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/extra.php:36
+Stack trace:
+#0 /home/bini1010/public_html/kitcheno_mechanics/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code(10): mapNearest(NULL, NULL)
+#1 [internal function]: GigaAI\helpers\Main->{closure}(Object(GigaAI\MessengerBot), '212232884778089...', '')
+#2 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/MessengerBot.php(202): call_user_func_array(Object(Closure), Array)
+#3 [internal function]: GigaAI\MessengerBot->GigaAI\{closure}(Object(Closure))
+#4 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Core/DynamicParser.php(35): call_user_func_array(Object(Closure), Array)
+#5 [internal function]: GigaAI\Core\DynamicParser->parse(Array)
+#6 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Shared/EasyCall.php(21): call_user_func_array(Array, Array) in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/extra.php on line 36
+[30-Nov-2017 09:41:14 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/extra.php:36
+Stack trace:
+#0 /home/bini1010/public_html/kitcheno_mechanics/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code(10): mapNearest(NULL, NULL)
+#1 [internal function]: GigaAI\helpers\Main->{closure}(Object(GigaAI\MessengerBot), '212232884778089...', '')
+#2 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/MessengerBot.php(202): call_user_func_array(Object(Closure), Array)
+#3 [internal function]: GigaAI\MessengerBot->GigaAI\{closure}(Object(Closure))
+#4 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Core/DynamicParser.php(35): call_user_func_array(Object(Closure), Array)
+#5 [internal function]: GigaAI\Core\DynamicParser->parse(Array)
+#6 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Shared/EasyCall.php(21): call_user_func_array(Array, Array) in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/extra.php on line 36
+[30-Nov-2017 10:05:09 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/extra.php:36
+Stack trace:
+#0 /home/bini1010/public_html/kitcheno_mechanics/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code(5): mapNearest(NULL, NULL)
+#1 [internal function]: GigaAI\helpers\Main->{closure}(Object(GigaAI\MessengerBot), '212232884778089...', '')
+#2 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/MessengerBot.php(202): call_user_func_array(Object(Closure), Array)
+#3 [internal function]: GigaAI\MessengerBot->GigaAI\{closure}(Object(Closure))
+#4 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Core/DynamicParser.php(35): call_user_func_array(Object(Closure), Array)
+#5 [internal function]: GigaAI\Core\DynamicParser->parse(Array)
+#6 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Shared/EasyCall.php(21): call_user_func_array(Array, Array)
+ in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/extra.php on line 36
+[01-Dec-2017 07:48:28 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/extra.php:36
+Stack trace:
+#0 /home/bini1010/public_html/kitcheno_mechanics/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code(5): mapNearest(NULL, NULL)
+#1 [internal function]: GigaAI\helpers\Main->{closure}(Object(GigaAI\MessengerBot), '212232884778089...', '')
+#2 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/MessengerBot.php(202): call_user_func_array(Object(Closure), Array)
+#3 [internal function]: GigaAI\MessengerBot->GigaAI\{closure}(Object(Closure))
+#4 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Core/DynamicParser.php(35): call_user_func_array(Object(Closure), Array)
+#5 [internal function]: GigaAI\Core\DynamicParser->parse(Array)
+#6 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Shared/EasyCall.php(21): call_user_func_array(Array, Array)
+ in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/extra.php on line 36
+[01-Dec-2017 09:06:02 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function wait() on null in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/dialogue.php:46
+Stack trace:
+#0 /home/bini1010/public_html/kitcheno_mechanics/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code(15): onBoardingDefaultAddressRepeat(Object(GigaAI\MessengerBot))
+#1 [internal function]: GigaAI\helpers\Main->{closure}(Object(GigaAI\MessengerBot), '212232884778089...', '123123123')
+#2 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/MessengerBot.php(202): call_user_func_array(Object(Closure), Array)
+#3 [internal function]: GigaAI\MessengerBot->GigaAI\{closure}(Object(Closure))
+#4 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Core/DynamicParser.php(35): call_user_func_array(Object(Closure), Array)
+#5 [internal function]: GigaAI\Core\DynamicParser->parse(Array)
+#6 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Shared/EasyCall.p in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/dialogue.php on line 46
+[01-Dec-2017 09:07:13 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function wait() on null in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/dialogue.php:46
+Stack trace:
+#0 /home/bini1010/public_html/kitcheno_mechanics/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code(15): onBoardingDefaultAddressRepeat(Object(GigaAI\MessengerBot))
+#1 [internal function]: GigaAI\helpers\Main->{closure}(Object(GigaAI\MessengerBot), '212232884778089...', '123123123')
+#2 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/MessengerBot.php(202): call_user_func_array(Object(Closure), Array)
+#3 [internal function]: GigaAI\MessengerBot->GigaAI\{closure}(Object(Closure))
+#4 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Core/DynamicParser.php(35): call_user_func_array(Object(Closure), Array)
+#5 [internal function]: GigaAI\Core\DynamicParser->parse(Array)
+#6 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Shared/EasyCall.p in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/dialogue.php on line 46
+[01-Dec-2017 09:12:01 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'isOnboarded' in 'field list' in /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php:382
+Stack trace:
+#0 /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php(382): PDO->prepare('update `bot_lea...')
+#1 /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php(616): Illuminate\Database\Connection->Illuminate\Database\{closure}(Object(Illuminate\Database\MySqlConnection), 'update `bot_lea...', Array)
+#2 /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php(580): Illuminate\Database\Connection->runQueryCallback('update `bot_lea...', Array, Object(Closure))
+#3 /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php(387): Illuminate\Database\Connection->run('update `bot_lea...', Array, Object(Closure))
+#4 /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/datab in /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php on line 624
+[01-Dec-2017 09:21:54 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'isOnboarded' in 'field list' in /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php:382
+Stack trace:
+#0 /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php(382): PDO->prepare('update `bot_lea...')
+#1 /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php(616): Illuminate\Database\Connection->Illuminate\Database\{closure}(Object(Illuminate\Database\MySqlConnection), 'update `bot_lea...', Array)
+#2 /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php(580): Illuminate\Database\Connection->runQueryCallback('update `bot_lea...', Array, Object(Closure))
+#3 /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php(387): Illuminate\Database\Connection->run('update `bot_lea...', Array, Object(Closure))
+#4 /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/datab in /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php on line 624
+[01-Dec-2017 09:59:05 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'GigaAI\helpers\Main' not found in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/MessengerBot.php:113
+Stack trace:
+#0 /home/bini1010/public_html/kitcheno_mechanics/bootstrap/bot.php(38): GigaAI\MessengerBot->__construct()
+#1 /home/bini1010/public_html/kitcheno_mechanics/public/index.php(11): require_once('/home/bini1010/...')
+#2 {main}
+  thrown in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/MessengerBot.php on line 113
+[02-Dec-2017 23:52:39 Asia/Manila] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/Main.php on line 224
+[02-Dec-2017 23:52:40 Asia/Manila] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/Main.php on line 224
+[03-Dec-2017 09:13:51 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function onBoardingNameRepeatDialogueDialogue() in /home/bini1010/public_html/kitcheno_mechanics/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code:10
+Stack trace:
+#0 [internal function]: GigaAI\helpers\Main->{closure}(Object(GigaAI\MessengerBot), '212232884778089...', '123123123')
+#1 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/MessengerBot.php(202): call_user_func_array(Object(Closure), Array)
+#2 [internal function]: GigaAI\MessengerBot->GigaAI\{closure}(Object(Closure))
+#3 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Core/DynamicParser.php(35): call_user_func_array(Object(Closure), Array)
+#4 [internal function]: GigaAI\Core\DynamicParser->parse(Array)
+#5 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Shared/EasyCall.php(21): call_user_func_array(Array, Array)
+#6 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Shared/EasyCall.php(35): G in /home/bini1010/public_html/kitcheno_mechanics/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code on line 10
+[03-Dec-2017 23:17:38 CST6CDT] PHP Fatal error:  'break' not in the 'loop' or 'switch' context in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/Main.php on line 402
+[03-Dec-2017 23:17:53 CST6CDT] PHP Fatal error:  'break' not in the 'loop' or 'switch' context in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/Main.php on line 402
+[03-Dec-2017 23:17:53 CST6CDT] PHP Fatal error:  'break' not in the 'loop' or 'switch' context in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/Main.php on line 402
+[03-Dec-2017 23:18:03 CST6CDT] PHP Fatal error:  'break' not in the 'loop' or 'switch' context in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/Main.php on line 402
+[03-Dec-2017 23:18:04 CST6CDT] PHP Fatal error:  'break' not in the 'loop' or 'switch' context in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/Main.php on line 402
+[03-Dec-2017 23:18:18 CST6CDT] PHP Fatal error:  'break' not in the 'loop' or 'switch' context in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/Main.php on line 402
+[03-Dec-2017 23:18:18 CST6CDT] PHP Fatal error:  'break' not in the 'loop' or 'switch' context in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/Main.php on line 402
+[03-Dec-2017 23:18:34 CST6CDT] PHP Fatal error:  'break' not in the 'loop' or 'switch' context in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/Main.php on line 402
+[03-Dec-2017 23:18:35 CST6CDT] PHP Fatal error:  'break' not in the 'loop' or 'switch' context in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/Main.php on line 402
+[04-Dec-2017 13:18:45 Asia/Manila] PHP Fatal error:  'break' not in the 'loop' or 'switch' context in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/Main.php on line 402
+[04-Dec-2017 13:18:46 Asia/Manila] PHP Fatal error:  'break' not in the 'loop' or 'switch' context in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/Main.php on line 402
+[04-Dec-2017 17:14:23 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined method GigaAI\MessengerBot::wat() in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/dialogue.php:200
+Stack trace:
+#0 /home/bini1010/public_html/kitcheno_mechanics/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code(5): showCart(Object(GigaAI\MessengerBot), '212232884778089...')
+#1 [internal function]: {closure}(Object(GigaAI\MessengerBot), '212232884778089...', 'Back')
+#2 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/MessengerBot.php(202): call_user_func_array(Object(Closure), Array)
+#3 [internal function]: GigaAI\MessengerBot->GigaAI\{closure}(Object(Closure))
+#4 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Core/DynamicParser.php(35): call_user_func_array(Object(Closure), Array)
+#5 [internal function]: GigaAI\Core\DynamicParser->parse(Array)
+#6 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Shared/EasyCall.php(21): call_us in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/dialogue.php on line 200
+[04-Dec-2017 17:14:36 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined method GigaAI\MessengerBot::wat() in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/dialogue.php:200
+Stack trace:
+#0 /home/bini1010/public_html/kitcheno_mechanics/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code(5): showCart(Object(GigaAI\MessengerBot), '212232884778089...')
+#1 [internal function]: {closure}(Object(GigaAI\MessengerBot), '212232884778089...', 'Back')
+#2 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/MessengerBot.php(202): call_user_func_array(Object(Closure), Array)
+#3 [internal function]: GigaAI\MessengerBot->GigaAI\{closure}(Object(Closure))
+#4 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Core/DynamicParser.php(35): call_user_func_array(Object(Closure), Array)
+#5 [internal function]: GigaAI\Core\DynamicParser->parse(Array)
+#6 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Shared/EasyCall.php(21): call_us in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/dialogue.php on line 200
+[04-Dec-2017 17:16:27 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined method GigaAI\MessengerBot::wat() in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/dialogue.php:200
+Stack trace:
+#0 /home/bini1010/public_html/kitcheno_mechanics/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code(24): showCart(Object(GigaAI\MessengerBot), '212232884778089...')
+#1 [internal function]: GigaAI\helpers\Main->{closure}(Object(GigaAI\MessengerBot), '212232884778089...', '1')
+#2 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/MessengerBot.php(202): call_user_func_array(Object(Closure), Array)
+#3 [internal function]: GigaAI\MessengerBot->GigaAI\{closure}(Object(Closure))
+#4 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Core/DynamicParser.php(35): call_user_func_array(Object(Closure), Array)
+#5 [internal function]: GigaAI\Core\DynamicParser->parse(Array)
+#6 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Shared/EasyCa in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/dialogue.php on line 200
+[04-Dec-2017 17:21:13 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined method GigaAI\MessengerBot::wat() in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/dialogue.php:200
+Stack trace:
+#0 /home/bini1010/public_html/kitcheno_mechanics/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code(5): showCart(Object(GigaAI\MessengerBot), '212232884778089...')
+#1 [internal function]: {closure}(Object(GigaAI\MessengerBot), '212232884778089...', 'Back')
+#2 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/MessengerBot.php(202): call_user_func_array(Object(Closure), Array)
+#3 [internal function]: GigaAI\MessengerBot->GigaAI\{closure}(Object(Closure))
+#4 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Core/DynamicParser.php(35): call_user_func_array(Object(Closure), Array)
+#5 [internal function]: GigaAI\Core\DynamicParser->parse(Array)
+#6 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Shared/EasyCall.php(21): call_us in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/dialogue.php on line 200
+[04-Dec-2017 17:21:28 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined method GigaAI\MessengerBot::wat() in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/dialogue.php:200
+Stack trace:
+#0 /home/bini1010/public_html/kitcheno_mechanics/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code(5): showCart(Object(GigaAI\MessengerBot), '212232884778089...')
+#1 [internal function]: {closure}(Object(GigaAI\MessengerBot), '212232884778089...', 'Back')
+#2 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/MessengerBot.php(202): call_user_func_array(Object(Closure), Array)
+#3 [internal function]: GigaAI\MessengerBot->GigaAI\{closure}(Object(Closure))
+#4 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Core/DynamicParser.php(35): call_user_func_array(Object(Closure), Array)
+#5 [internal function]: GigaAI\Core\DynamicParser->parse(Array)
+#6 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Shared/EasyCall.php(21): call_us in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/dialogue.php on line 200
+[04-Dec-2017 17:22:12 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined method GigaAI\MessengerBot::wat() in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/dialogue.php:200
+Stack trace:
+#0 /home/bini1010/public_html/kitcheno_mechanics/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code(5): showCart(Object(GigaAI\MessengerBot), '212232884778089...')
+#1 [internal function]: {closure}(Object(GigaAI\MessengerBot), '212232884778089...', 'Back')
+#2 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/MessengerBot.php(202): call_user_func_array(Object(Closure), Array)
+#3 [internal function]: GigaAI\MessengerBot->GigaAI\{closure}(Object(Closure))
+#4 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Core/DynamicParser.php(35): call_user_func_array(Object(Closure), Array)
+#5 [internal function]: GigaAI\Core\DynamicParser->parse(Array)
+#6 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Shared/EasyCall.php(21): call_us in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/dialogue.php on line 200
+[05-Dec-2017 12:13:37 Asia/Manila] PHP Parse error:  syntax error, unexpected ')' in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/dialogue.php on line 597
+[05-Dec-2017 12:18:39 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function onBoardingCodeInvalid() in /home/bini1010/public_html/kitcheno_mechanics/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code:16
+Stack trace:
+#0 [internal function]: GigaAI\helpers\Main->{closure}(Object(GigaAI\MessengerBot), '212232884778089...', 'asdasd')
+#1 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/MessengerBot.php(202): call_user_func_array(Object(Closure), Array)
+#2 [internal function]: GigaAI\MessengerBot->GigaAI\{closure}(Object(Closure))
+#3 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Core/DynamicParser.php(35): call_user_func_array(Object(Closure), Array)
+#4 [internal function]: GigaAI\Core\DynamicParser->parse(Array)
+#5 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Shared/EasyCall.php(21): call_user_func_array(Array, Array)
+#6 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Shared/EasyCall.php(35): GigaAI\Core\Dynamic in /home/bini1010/public_html/kitcheno_mechanics/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code on line 16
+[05-Dec-2017 12:22:06 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function onBoardingCodeInvalid() in /home/bini1010/public_html/kitcheno_mechanics/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code:16
+Stack trace:
+#0 [internal function]: GigaAI\helpers\Main->{closure}(Object(GigaAI\MessengerBot), '212232884778089...', '09565192360')
+#1 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/MessengerBot.php(202): call_user_func_array(Object(Closure), Array)
+#2 [internal function]: GigaAI\MessengerBot->GigaAI\{closure}(Object(Closure))
+#3 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Core/DynamicParser.php(35): call_user_func_array(Object(Closure), Array)
+#4 [internal function]: GigaAI\Core\DynamicParser->parse(Array)
+#5 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Shared/EasyCall.php(21): call_user_func_array(Array, Array)
+#6 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Shared/EasyCall.php(35): GigaAI\Core\Dy in /home/bini1010/public_html/kitcheno_mechanics/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code on line 16
+[05-Dec-2017 12:29:24 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function onBoardingCodeInvalid() in /home/bini1010/public_html/kitcheno_mechanics/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code:16
+Stack trace:
+#0 [internal function]: GigaAI\helpers\Main->{closure}(Object(GigaAI\MessengerBot), '212232884778089...', '4961')
+#1 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/MessengerBot.php(202): call_user_func_array(Object(Closure), Array)
+#2 [internal function]: GigaAI\MessengerBot->GigaAI\{closure}(Object(Closure))
+#3 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Core/DynamicParser.php(35): call_user_func_array(Object(Closure), Array)
+#4 [internal function]: GigaAI\Core\DynamicParser->parse(Array)
+#5 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Shared/EasyCall.php(21): call_user_func_array(Array, Array)
+#6 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Shared/EasyCall.php(35): GigaAI\Core\DynamicPa in /home/bini1010/public_html/kitcheno_mechanics/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code on line 16
+[05-Dec-2017 12:35:40 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '2122328847780895' for key 'user_id' in /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php:362
+Stack trace:
+#0 /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php(362): PDOStatement->execute(Array)
+#1 /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php(616): Illuminate\Database\Connection->Illuminate\Database\{closure}(Object(Illuminate\Database\MySqlConnection), 'insert into `tb...', Array)
+#2 /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php(580): Illuminate\Database\Connection->runQueryCallback('insert into `tb...', Array, Object(Closure))
+#3 /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php(363): Illuminate\Database\Connection->run('insert into `tb...', Array, Object(Closure))
+#4 /home/bini1010/public_html/kitcheno_mechanics/vendor/ in /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php on line 624
+[05-Dec-2017 21:06:24 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function onBoardingCodeInvalid() in /home/bini1010/public_html/kitcheno_mechanics/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code:16
+Stack trace:
+#0 [internal function]: GigaAI\helpers\Main->{closure}(Object(GigaAI\MessengerBot), '191448089857931...', '3459')
+#1 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/MessengerBot.php(202): call_user_func_array(Object(Closure), Array)
+#2 [internal function]: GigaAI\MessengerBot->GigaAI\{closure}(Object(Closure))
+#3 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Core/DynamicParser.php(35): call_user_func_array(Object(Closure), Array)
+#4 [internal function]: GigaAI\Core\DynamicParser->parse(Array)
+#5 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Shared/EasyCall.php(21): call_user_func_array(Array, Array)
+#6 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Shared/EasyCall.php(35): GigaAI\Core\DynamicPa in /home/bini1010/public_html/kitcheno_mechanics/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code on line 16
+[06-Dec-2017 13:41:31 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '1914480898579318' for key 'user_id' in /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php:362
+Stack trace:
+#0 /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php(362): PDOStatement->execute(Array)
+#1 /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php(616): Illuminate\Database\Connection->Illuminate\Database\{closure}(Object(Illuminate\Database\MySqlConnection), 'insert into `tb...', Array)
+#2 /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php(580): Illuminate\Database\Connection->runQueryCallback('insert into `tb...', Array, Object(Closure))
+#3 /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php(363): Illuminate\Database\Connection->run('insert into `tb...', Array, Object(Closure))
+#4 /home/bini1010/public_html/kitcheno_mechanics/vendor/ in /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php on line 624
+[06-Dec-2017 14:05:09 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '1914480898579318' for key 'user_id' in /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php:362
+Stack trace:
+#0 /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php(362): PDOStatement->execute(Array)
+#1 /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php(616): Illuminate\Database\Connection->Illuminate\Database\{closure}(Object(Illuminate\Database\MySqlConnection), 'insert into `tb...', Array)
+#2 /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php(580): Illuminate\Database\Connection->runQueryCallback('insert into `tb...', Array, Object(Closure))
+#3 /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php(363): Illuminate\Database\Connection->run('insert into `tb...', Array, Object(Closure))
+#4 /home/bini1010/public_html/kitcheno_mechanics/vendor/ in /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php on line 624
+[06-Dec-2017 15:01:09 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function onBoardingCodeInvalid() in /home/bini1010/public_html/kitcheno_mechanics/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code:16
+Stack trace:
+#0 [internal function]: GigaAI\helpers\Main->{closure}(Object(GigaAI\MessengerBot), '212232884778089...', '1234')
+#1 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/MessengerBot.php(202): call_user_func_array(Object(Closure), Array)
+#2 [internal function]: GigaAI\MessengerBot->GigaAI\{closure}(Object(Closure))
+#3 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Core/DynamicParser.php(35): call_user_func_array(Object(Closure), Array)
+#4 [internal function]: GigaAI\Core\DynamicParser->parse(Array)
+#5 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Shared/EasyCall.php(21): call_user_func_array(Array, Array)
+#6 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Shared/EasyCall.php(35): GigaAI\Core\DynamicPa in /home/bini1010/public_html/kitcheno_mechanics/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code on line 16
+[06-Dec-2017 15:01:29 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '2122328847780895' for key 'user_id' in /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php:362
+Stack trace:
+#0 /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php(362): PDOStatement->execute(Array)
+#1 /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php(616): Illuminate\Database\Connection->Illuminate\Database\{closure}(Object(Illuminate\Database\MySqlConnection), 'insert into `tb...', Array)
+#2 /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php(580): Illuminate\Database\Connection->runQueryCallback('insert into `tb...', Array, Object(Closure))
+#3 /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php(363): Illuminate\Database\Connection->run('insert into `tb...', Array, Object(Closure))
+#4 /home/bini1010/public_html/kitcheno_mechanics/vendor/ in /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php on line 624
+[06-Dec-2017 15:01:58 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '2122328847780895' for key 'user_id' in /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php:362
+Stack trace:
+#0 /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php(362): PDOStatement->execute(Array)
+#1 /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php(616): Illuminate\Database\Connection->Illuminate\Database\{closure}(Object(Illuminate\Database\MySqlConnection), 'insert into `tb...', Array)
+#2 /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php(580): Illuminate\Database\Connection->runQueryCallback('insert into `tb...', Array, Object(Closure))
+#3 /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php(363): Illuminate\Database\Connection->run('insert into `tb...', Array, Object(Closure))
+#4 /home/bini1010/public_html/kitcheno_mechanics/vendor/ in /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php on line 624
+[06-Dec-2017 15:02:24 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '2122328847780895' for key 'user_id' in /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php:362
+Stack trace:
+#0 /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php(362): PDOStatement->execute(Array)
+#1 /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php(616): Illuminate\Database\Connection->Illuminate\Database\{closure}(Object(Illuminate\Database\MySqlConnection), 'insert into `tb...', Array)
+#2 /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php(580): Illuminate\Database\Connection->runQueryCallback('insert into `tb...', Array, Object(Closure))
+#3 /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php(363): Illuminate\Database\Connection->run('insert into `tb...', Array, Object(Closure))
+#4 /home/bini1010/public_html/kitcheno_mechanics/vendor/ in /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php on line 624
+[07-Dec-2017 09:08:03 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '1914480898579318' for key 'user_id' in /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php:362
+Stack trace:
+#0 /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php(362): PDOStatement->execute(Array)
+#1 /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php(616): Illuminate\Database\Connection->Illuminate\Database\{closure}(Object(Illuminate\Database\MySqlConnection), 'insert into `tb...', Array)
+#2 /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php(580): Illuminate\Database\Connection->runQueryCallback('insert into `tb...', Array, Object(Closure))
+#3 /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php(363): Illuminate\Database\Connection->run('insert into `tb...', Array, Object(Closure))
+#4 /home/bini1010/public_html/kitcheno_mechanics/vendor/ in /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php on line 624
+[07-Dec-2017 09:30:29 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function onBoardingCodeInvalid() in /home/bini1010/public_html/kitcheno_mechanics/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code:16
+Stack trace:
+#0 [internal function]: GigaAI\helpers\Main->{closure}(Object(GigaAI\MessengerBot), '212232884778089...', '8754654')
+#1 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/MessengerBot.php(202): call_user_func_array(Object(Closure), Array)
+#2 [internal function]: GigaAI\MessengerBot->GigaAI\{closure}(Object(Closure))
+#3 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Core/DynamicParser.php(35): call_user_func_array(Object(Closure), Array)
+#4 [internal function]: GigaAI\Core\DynamicParser->parse(Array)
+#5 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Shared/EasyCall.php(21): call_user_func_array(Array, Array)
+#6 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Shared/EasyCall.php(35): GigaAI\Core\Dynami in /home/bini1010/public_html/kitcheno_mechanics/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code on line 16
+[07-Dec-2017 09:36:10 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function onBoardingCodeInvalid() in /home/bini1010/public_html/kitcheno_mechanics/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code:17
+Stack trace:
+#0 [internal function]: GigaAI\helpers\Main->{closure}(Object(GigaAI\MessengerBot), '212232884778089...', '12345')
+#1 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/MessengerBot.php(202): call_user_func_array(Object(Closure), Array)
+#2 [internal function]: GigaAI\MessengerBot->GigaAI\{closure}(Object(Closure))
+#3 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Core/DynamicParser.php(35): call_user_func_array(Object(Closure), Array)
+#4 [internal function]: GigaAI\Core\DynamicParser->parse(Array)
+#5 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Shared/EasyCall.php(21): call_user_func_array(Array, Array)
+#6 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Shared/EasyCall.php(35): GigaAI\Core\DynamicP in /home/bini1010/public_html/kitcheno_mechanics/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code on line 17
+[07-Dec-2017 09:38:28 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function onBoardingCodeInvalid() in /home/bini1010/public_html/kitcheno_mechanics/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code:17
+Stack trace:
+#0 [internal function]: GigaAI\helpers\Main->{closure}(Object(GigaAI\MessengerBot), '212232884778089...', '12345')
+#1 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/MessengerBot.php(202): call_user_func_array(Object(Closure), Array)
+#2 [internal function]: GigaAI\MessengerBot->GigaAI\{closure}(Object(Closure))
+#3 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Core/DynamicParser.php(35): call_user_func_array(Object(Closure), Array)
+#4 [internal function]: GigaAI\Core\DynamicParser->parse(Array)
+#5 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Shared/EasyCall.php(21): call_user_func_array(Array, Array)
+#6 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Shared/EasyCall.php(35): GigaAI\Core\DynamicP in /home/bini1010/public_html/kitcheno_mechanics/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code on line 17
+[07-Dec-2017 09:39:39 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '2122328847780895' for key 'user_id' in /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php:362
+Stack trace:
+#0 /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php(362): PDOStatement->execute(Array)
+#1 /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php(616): Illuminate\Database\Connection->Illuminate\Database\{closure}(Object(Illuminate\Database\MySqlConnection), 'insert into `tb...', Array)
+#2 /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php(580): Illuminate\Database\Connection->runQueryCallback('insert into `tb...', Array, Object(Closure))
+#3 /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php(363): Illuminate\Database\Connection->run('insert into `tb...', Array, Object(Closure))
+#4 /home/bini1010/public_html/kitcheno_mechanics/vendor/ in /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php on line 624
+[07-Dec-2017 09:43:07 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function onBoardingCodeInvalid() in /home/bini1010/public_html/kitcheno_mechanics/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code:18
+Stack trace:
+#0 [internal function]: GigaAI\helpers\Main->{closure}(Object(GigaAI\MessengerBot), '212232884778089...', '12356')
+#1 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/MessengerBot.php(202): call_user_func_array(Object(Closure), Array)
+#2 [internal function]: GigaAI\MessengerBot->GigaAI\{closure}(Object(Closure))
+#3 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Core/DynamicParser.php(35): call_user_func_array(Object(Closure), Array)
+#4 [internal function]: GigaAI\Core\DynamicParser->parse(Array)
+#5 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Shared/EasyCall.php(21): call_user_func_array(Array, Array)
+#6 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Shared/EasyCall.php(35): GigaAI\Core\DynamicP in /home/bini1010/public_html/kitcheno_mechanics/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code on line 18
+[07-Dec-2017 09:44:06 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function onBoardingCodeInvalid() in /home/bini1010/public_html/kitcheno_mechanics/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code:19
+Stack trace:
+#0 [internal function]: GigaAI\helpers\Main->{closure}(Object(GigaAI\MessengerBot), '212232884778089...', '16464654')
+#1 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/MessengerBot.php(202): call_user_func_array(Object(Closure), Array)
+#2 [internal function]: GigaAI\MessengerBot->GigaAI\{closure}(Object(Closure))
+#3 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Core/DynamicParser.php(35): call_user_func_array(Object(Closure), Array)
+#4 [internal function]: GigaAI\Core\DynamicParser->parse(Array)
+#5 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Shared/EasyCall.php(21): call_user_func_array(Array, Array)
+#6 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Shared/EasyCall.php(35): GigaAI\Core\Dynam in /home/bini1010/public_html/kitcheno_mechanics/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code on line 19
+[07-Dec-2017 09:52:58 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/templates.php:59
+Stack trace:
+#0 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/dialogue.php(168): items('212232884778089...', 'Burgers')
+#1 /home/bini1010/public_html/kitcheno_mechanics/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code(3): categoryDialogue(Object(GigaAI\MessengerBot), '212232884778089...', 'Burgers')
+#2 [internal function]: {closure}(Object(GigaAI\MessengerBot), '212232884778089...', '')
+#3 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/MessengerBot.php(202): call_user_func_array(Object(Closure), Array)
+#4 [internal function]: GigaAI\MessengerBot->GigaAI\{closure}(Object(Closure))
+#5 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Core/DynamicParser.php(35): call_user_func_array(Object(Closure), Array)
+#6 [interna in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/templates.php on line 59
+[07-Dec-2017 09:53:16 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/templates.php:59
+Stack trace:
+#0 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/dialogue.php(168): items('212232884778089...', 'Hotdogs')
+#1 /home/bini1010/public_html/kitcheno_mechanics/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code(3): categoryDialogue(Object(GigaAI\MessengerBot), '212232884778089...', 'Hotdogs')
+#2 [internal function]: {closure}(Object(GigaAI\MessengerBot), '212232884778089...', '')
+#3 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/MessengerBot.php(202): call_user_func_array(Object(Closure), Array)
+#4 [internal function]: GigaAI\MessengerBot->GigaAI\{closure}(Object(Closure))
+#5 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Core/DynamicParser.php(35): call_user_func_array(Object(Closure), Array)
+#6 [interna in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/templates.php on line 59
+[07-Dec-2017 09:55:29 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/templates.php:59
+Stack trace:
+#0 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/dialogue.php(168): items('212232884778089...', 'Burgers')
+#1 /home/bini1010/public_html/kitcheno_mechanics/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code(3): categoryDialogue(Object(GigaAI\MessengerBot), '212232884778089...', 'Burgers')
+#2 [internal function]: {closure}(Object(GigaAI\MessengerBot), '212232884778089...', '')
+#3 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/MessengerBot.php(202): call_user_func_array(Object(Closure), Array)
+#4 [internal function]: GigaAI\MessengerBot->GigaAI\{closure}(Object(Closure))
+#5 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Core/DynamicParser.php(35): call_user_func_array(Object(Closure), Array)
+#6 [interna in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/templates.php on line 59
+[07-Dec-2017 09:55:36 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/templates.php:59
+Stack trace:
+#0 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/dialogue.php(168): items('212232884778089...', 'Hotdogs')
+#1 /home/bini1010/public_html/kitcheno_mechanics/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code(3): categoryDialogue(Object(GigaAI\MessengerBot), '212232884778089...', 'Hotdogs')
+#2 [internal function]: {closure}(Object(GigaAI\MessengerBot), '212232884778089...', '')
+#3 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/MessengerBot.php(202): call_user_func_array(Object(Closure), Array)
+#4 [internal function]: GigaAI\MessengerBot->GigaAI\{closure}(Object(Closure))
+#5 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Core/DynamicParser.php(35): call_user_func_array(Object(Closure), Array)
+#6 [interna in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/templates.php on line 59
+[07-Dec-2017 09:57:00 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/templates.php:59
+Stack trace:
+#0 /home/bini1010/public_html/kitcheno_mechanics/public/seeder.php(17): items('212232884778089...', 'Burgers')
+#1 {main}
+  thrown in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/templates.php on line 59
+[07-Dec-2017 10:11:15 Asia/Manila] PHP Parse error:  syntax error, unexpected '$bot' (T_VARIABLE) in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/dialogue.php on line 356
+[07-Dec-2017 10:17:39 Asia/Manila] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/templates.php on line 294
+[08-Dec-2017 08:56:29 Asia/Manila] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/session_tree.php on line 35
+[08-Dec-2017 10:05:13 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/manager.php:14
+Stack trace:
+#0 /home/bini1010/public_html/kitcheno_mechanics/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code(16): fetchQueryIt('SELECT category...')
+#1 [internal function]: {closure}(Object(GigaAI\MessengerBot), '212232884778089...', 'No')
+#2 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/MessengerBot.php(202): call_user_func_array(Object(Closure), Array)
+#3 [internal function]: GigaAI\MessengerBot->GigaAI\{closure}(Object(Closure))
+#4 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Core/DynamicParser.php(35): call_user_func_array(Object(Closure), Array)
+#5 [internal function]: GigaAI\Core\DynamicParser->parse(Array)
+#6 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Shared/EasyCall.php(21): call_user_func_array(Array, Array)
+#7 / in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/manager.php on line 14
+[08-Dec-2017 10:06:16 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/manager.php:14
+Stack trace:
+#0 /home/bini1010/public_html/kitcheno_mechanics/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code(16): fetchQueryIt('SELECT category...')
+#1 [internal function]: {closure}(Object(GigaAI\MessengerBot), '212232884778089...', 'No')
+#2 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/MessengerBot.php(202): call_user_func_array(Object(Closure), Array)
+#3 [internal function]: GigaAI\MessengerBot->GigaAI\{closure}(Object(Closure))
+#4 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Core/DynamicParser.php(35): call_user_func_array(Object(Closure), Array)
+#5 [internal function]: GigaAI\Core\DynamicParser->parse(Array)
+#6 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Shared/EasyCall.php(21): call_user_func_array(Array, Array)
+#7 / in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/manager.php on line 14
+[08-Dec-2017 10:07:36 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/manager.php:14
+Stack trace:
+#0 /home/bini1010/public_html/kitcheno_mechanics/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code(16): fetchQueryIt('SELECT category...')
+#1 [internal function]: {closure}(Object(GigaAI\MessengerBot), '212232884778089...', 'No')
+#2 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/MessengerBot.php(202): call_user_func_array(Object(Closure), Array)
+#3 [internal function]: GigaAI\MessengerBot->GigaAI\{closure}(Object(Closure))
+#4 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Core/DynamicParser.php(35): call_user_func_array(Object(Closure), Array)
+#5 [internal function]: GigaAI\Core\DynamicParser->parse(Array)
+#6 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Shared/EasyCall.php(21): call_user_func_array(Array, Array)
+#7 / in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/manager.php on line 14
+[08-Dec-2017 10:08:27 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/manager.php:14
+Stack trace:
+#0 /home/bini1010/public_html/kitcheno_mechanics/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code(16): fetchQueryIt('SELECT category...')
+#1 [internal function]: {closure}(Object(GigaAI\MessengerBot), '212232884778089...', 'No')
+#2 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/MessengerBot.php(202): call_user_func_array(Object(Closure), Array)
+#3 [internal function]: GigaAI\MessengerBot->GigaAI\{closure}(Object(Closure))
+#4 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Core/DynamicParser.php(35): call_user_func_array(Object(Closure), Array)
+#5 [internal function]: GigaAI\Core\DynamicParser->parse(Array)
+#6 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Shared/EasyCall.php(21): call_user_func_array(Array, Array)
+#7 / in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/manager.php on line 14
+[08-Dec-2017 10:09:29 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/manager.php:14
+Stack trace:
+#0 /home/bini1010/public_html/kitcheno_mechanics/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code(16): fetchQueryIt('SELECT category...')
+#1 [internal function]: {closure}(Object(GigaAI\MessengerBot), '212232884778089...', 'No')
+#2 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/MessengerBot.php(202): call_user_func_array(Object(Closure), Array)
+#3 [internal function]: GigaAI\MessengerBot->GigaAI\{closure}(Object(Closure))
+#4 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Core/DynamicParser.php(35): call_user_func_array(Object(Closure), Array)
+#5 [internal function]: GigaAI\Core\DynamicParser->parse(Array)
+#6 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Shared/EasyCall.php(21): call_user_func_array(Array, Array)
+#7 / in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/manager.php on line 14
+[08-Dec-2017 10:10:24 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/manager.php:14
+Stack trace:
+#0 /home/bini1010/public_html/kitcheno_mechanics/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code(16): fetchQueryIt('SELECT category...')
+#1 [internal function]: {closure}(Object(GigaAI\MessengerBot), '212232884778089...', 'No')
+#2 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/MessengerBot.php(202): call_user_func_array(Object(Closure), Array)
+#3 [internal function]: GigaAI\MessengerBot->GigaAI\{closure}(Object(Closure))
+#4 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Core/DynamicParser.php(35): call_user_func_array(Object(Closure), Array)
+#5 [internal function]: GigaAI\Core\DynamicParser->parse(Array)
+#6 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Shared/EasyCall.php(21): call_user_func_array(Array, Array)
+#7 / in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/manager.php on line 14
+[08-Dec-2017 10:11:37 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/manager.php:14
+Stack trace:
+#0 /home/bini1010/public_html/kitcheno_mechanics/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code(16): fetchQueryIt('SELECT category...')
+#1 [internal function]: {closure}(Object(GigaAI\MessengerBot), '212232884778089...', 'No')
+#2 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/MessengerBot.php(202): call_user_func_array(Object(Closure), Array)
+#3 [internal function]: GigaAI\MessengerBot->GigaAI\{closure}(Object(Closure))
+#4 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Core/DynamicParser.php(35): call_user_func_array(Object(Closure), Array)
+#5 [internal function]: GigaAI\Core\DynamicParser->parse(Array)
+#6 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Shared/EasyCall.php(21): call_user_func_array(Array, Array)
+#7 / in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/manager.php on line 14
+[08-Dec-2017 10:15:07 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/manager.php:14
+Stack trace:
+#0 /home/bini1010/public_html/kitcheno_mechanics/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code(16): fetchQueryIt('SELECT category...')
+#1 [internal function]: {closure}(Object(GigaAI\MessengerBot), '212232884778089...', 'No')
+#2 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/MessengerBot.php(202): call_user_func_array(Object(Closure), Array)
+#3 [internal function]: GigaAI\MessengerBot->GigaAI\{closure}(Object(Closure))
+#4 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Core/DynamicParser.php(35): call_user_func_array(Object(Closure), Array)
+#5 [internal function]: GigaAI\Core\DynamicParser->parse(Array)
+#6 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Shared/EasyCall.php(21): call_user_func_array(Array, Array)
+#7 / in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/manager.php on line 14
+[08-Dec-2017 10:20:32 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/manager.php:14
+Stack trace:
+#0 /home/bini1010/public_html/kitcheno_mechanics/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code(19): fetchQueryIt('SELECT category...')
+#1 [internal function]: {closure}(Object(GigaAI\MessengerBot), '212232884778089...', 'No')
+#2 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/MessengerBot.php(202): call_user_func_array(Object(Closure), Array)
+#3 [internal function]: GigaAI\MessengerBot->GigaAI\{closure}(Object(Closure))
+#4 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Core/DynamicParser.php(35): call_user_func_array(Object(Closure), Array)
+#5 [internal function]: GigaAI\Core\DynamicParser->parse(Array)
+#6 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Shared/EasyCall.php(21): call_user_func_array(Array, Array)
+#7 / in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/manager.php on line 14
+[08-Dec-2017 10:21:33 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/manager.php:14
+Stack trace:
+#0 /home/bini1010/public_html/kitcheno_mechanics/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code(19): fetchQueryIt('SELECT category...')
+#1 [internal function]: {closure}(Object(GigaAI\MessengerBot), '212232884778089...', 'No')
+#2 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/MessengerBot.php(202): call_user_func_array(Object(Closure), Array)
+#3 [internal function]: GigaAI\MessengerBot->GigaAI\{closure}(Object(Closure))
+#4 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Core/DynamicParser.php(35): call_user_func_array(Object(Closure), Array)
+#5 [internal function]: GigaAI\Core\DynamicParser->parse(Array)
+#6 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Shared/EasyCall.php(21): call_user_func_array(Array, Array)
+#7 / in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/manager.php on line 14
+[08-Dec-2017 10:40:46 Asia/Manila] PHP Parse error:  syntax error, unexpected '\' (T_NS_SEPARATOR), expecting ']' in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/templates.php on line 37
+[08-Dec-2017 10:40:46 Asia/Manila] PHP Parse error:  syntax error, unexpected '\' (T_NS_SEPARATOR), expecting ']' in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/templates.php on line 37
+[09-Dec-2017 12:28:56 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/extra.php:28
+Stack trace:
+#0 /home/bini1010/public_html/kitcheno_mechanics/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code(5): mapNearest(NULL, NULL)
+#1 [internal function]: GigaAI\helpers\Main->{closure}(Object(GigaAI\MessengerBot), '212232884778089...', '')
+#2 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/MessengerBot.php(202): call_user_func_array(Object(Closure), Array)
+#3 [internal function]: GigaAI\MessengerBot->GigaAI\{closure}(Object(Closure))
+#4 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Core/DynamicParser.php(35): call_user_func_array(Object(Closure), Array)
+#5 [internal function]: GigaAI\Core\DynamicParser->parse(Array)
+#6 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Shared/EasyCall.php(21): call_user_func_array(Array, Array)
+ in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/extra.php on line 28
+[10-Dec-2017 12:15:29 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/extra.php:28
+Stack trace:
+#0 /home/bini1010/public_html/kitcheno_mechanics/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code(5): mapNearest(NULL, NULL)
+#1 [internal function]: GigaAI\helpers\Main->{closure}(Object(GigaAI\MessengerBot), '212232884778089...', '')
+#2 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/MessengerBot.php(202): call_user_func_array(Object(Closure), Array)
+#3 [internal function]: GigaAI\MessengerBot->GigaAI\{closure}(Object(Closure))
+#4 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Core/DynamicParser.php(35): call_user_func_array(Object(Closure), Array)
+#5 [internal function]: GigaAI\Core\DynamicParser->parse(Array)
+#6 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Shared/EasyCall.php(21): call_user_func_array(Array, Array)
+ in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/extra.php on line 28
+[11-Dec-2017 18:35:02 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/extra.php:28
+Stack trace:
+#0 /home/bini1010/public_html/kitcheno_mechanics/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code(5): mapNearest(NULL, NULL)
+#1 [internal function]: GigaAI\helpers\Main->{closure}(Object(GigaAI\MessengerBot), '212232884778089...', '')
+#2 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/MessengerBot.php(202): call_user_func_array(Object(Closure), Array)
+#3 [internal function]: GigaAI\MessengerBot->GigaAI\{closure}(Object(Closure))
+#4 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Core/DynamicParser.php(35): call_user_func_array(Object(Closure), Array)
+#5 [internal function]: GigaAI\Core\DynamicParser->parse(Array)
+#6 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Shared/EasyCall.php(21): call_user_func_array(Array, Array)
+ in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/extra.php on line 28
+[11-Dec-2017 19:01:39 Asia/Manila] PHP Parse error:  syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/Main.php on line 711
+[11-Dec-2017 19:01:40 Asia/Manila] PHP Parse error:  syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/Main.php on line 711
+[11-Dec-2017 21:21:01 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '2122328847780895' for key 'user_id' in /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php:362
+Stack trace:
+#0 /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php(362): PDOStatement->execute(Array)
+#1 /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php(616): Illuminate\Database\Connection->Illuminate\Database\{closure}(Object(Illuminate\Database\MySqlConnection), 'insert into `tb...', Array)
+#2 /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php(580): Illuminate\Database\Connection->runQueryCallback('insert into `tb...', Array, Object(Closure))
+#3 /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php(363): Illuminate\Database\Connection->run('insert into `tb...', Array, Object(Closure))
+#4 /home/bini1010/public_html/kitcheno_mechanics/vendor/ in /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php on line 624
+[11-Dec-2017 21:21:44 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '2122328847780895' for key 'user_id' in /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php:362
+Stack trace:
+#0 /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php(362): PDOStatement->execute(Array)
+#1 /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php(616): Illuminate\Database\Connection->Illuminate\Database\{closure}(Object(Illuminate\Database\MySqlConnection), 'insert into `tb...', Array)
+#2 /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php(580): Illuminate\Database\Connection->runQueryCallback('insert into `tb...', Array, Object(Closure))
+#3 /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php(363): Illuminate\Database\Connection->run('insert into `tb...', Array, Object(Closure))
+#4 /home/bini1010/public_html/kitcheno_mechanics/vendor/ in /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php on line 624
+[11-Dec-2017 21:23:15 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '2122328847780895' for key 'user_id' in /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php:362
+Stack trace:
+#0 /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php(362): PDOStatement->execute(Array)
+#1 /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php(616): Illuminate\Database\Connection->Illuminate\Database\{closure}(Object(Illuminate\Database\MySqlConnection), 'insert into `tb...', Array)
+#2 /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php(580): Illuminate\Database\Connection->runQueryCallback('insert into `tb...', Array, Object(Closure))
+#3 /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php(363): Illuminate\Database\Connection->run('insert into `tb...', Array, Object(Closure))
+#4 /home/bini1010/public_html/kitcheno_mechanics/vendor/ in /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php on line 624
+[11-Dec-2017 21:23:48 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '2122328847780895' for key 'user_id' in /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php:362
+Stack trace:
+#0 /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php(362): PDOStatement->execute(Array)
+#1 /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php(616): Illuminate\Database\Connection->Illuminate\Database\{closure}(Object(Illuminate\Database\MySqlConnection), 'insert into `tb...', Array)
+#2 /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php(580): Illuminate\Database\Connection->runQueryCallback('insert into `tb...', Array, Object(Closure))
+#3 /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php(363): Illuminate\Database\Connection->run('insert into `tb...', Array, Object(Closure))
+#4 /home/bini1010/public_html/kitcheno_mechanics/vendor/ in /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php on line 624
+[11-Dec-2017 21:24:29 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '2122328847780895' for key 'user_id' in /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php:362
+Stack trace:
+#0 /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php(362): PDOStatement->execute(Array)
+#1 /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php(616): Illuminate\Database\Connection->Illuminate\Database\{closure}(Object(Illuminate\Database\MySqlConnection), 'insert into `tb...', Array)
+#2 /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php(580): Illuminate\Database\Connection->runQueryCallback('insert into `tb...', Array, Object(Closure))
+#3 /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php(363): Illuminate\Database\Connection->run('insert into `tb...', Array, Object(Closure))
+#4 /home/bini1010/public_html/kitcheno_mechanics/vendor/ in /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php on line 624
+[11-Dec-2017 21:25:15 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '2122328847780895' for key 'user_id' in /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php:362
+Stack trace:
+#0 /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php(362): PDOStatement->execute(Array)
+#1 /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php(616): Illuminate\Database\Connection->Illuminate\Database\{closure}(Object(Illuminate\Database\MySqlConnection), 'insert into `tb...', Array)
+#2 /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php(580): Illuminate\Database\Connection->runQueryCallback('insert into `tb...', Array, Object(Closure))
+#3 /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php(363): Illuminate\Database\Connection->run('insert into `tb...', Array, Object(Closure))
+#4 /home/bini1010/public_html/kitcheno_mechanics/vendor/ in /home/bini1010/public_html/kitcheno_mechanics/vendor/illuminate/database/Connection.php on line 624
+[11-Dec-2017 22:30:01 Asia/Manila] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/manager.php on line 144
+[11-Dec-2017 22:33:11 Asia/Manila] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/manager.php on line 144
+[11-Dec-2017 22:33:11 Asia/Manila] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/helpers/scripts/manager.php on line 144
+[11-Dec-2017 10:13:13 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'GigaAI\helpers\Main' not found in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/MessengerBot.php:113
+Stack trace:
+#0 /home/bini1010/public_html/kitcheno_mechanics/bootstrap/bot.php(38): GigaAI\MessengerBot->__construct()
+#1 /home/bini1010/public_html/kitcheno_mechanics/public/index.php(11): require_once('/home/bini1010/...')
+#2 {main}
+  thrown in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/MessengerBot.php on line 113
+[12-Dec-2017 08:36:30 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'GigaAI\helpers\Main' not found in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/MessengerBot.php:113
+Stack trace:
+#0 /home/bini1010/public_html/kitcheno_mechanics/bootstrap/bot.php(38): GigaAI\MessengerBot->__construct()
+#1 /home/bini1010/public_html/kitcheno_mechanics/public/index.php(11): require_once('/home/bini1010/...')
+#2 {main}
+  thrown in /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/MessengerBot.php on line 113
+[12-Dec-2017 22:42:18 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function afterLocation() in /home/bini1010/public_html/kitcheno_mechanics/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code:9
+Stack trace:
+#0 [internal function]: {closure}(Object(GigaAI\MessengerBot), '212232884778089...', 'No')
+#1 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/MessengerBot.php(202): call_user_func_array(Object(Closure), Array)
+#2 [internal function]: GigaAI\MessengerBot->GigaAI\{closure}(Object(Closure))
+#3 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Core/DynamicParser.php(35): call_user_func_array(Object(Closure), Array)
+#4 [internal function]: GigaAI\Core\DynamicParser->parse(Array)
+#5 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Shared/EasyCall.php(21): call_user_func_array(Array, Array)
+#6 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Shared/EasyCall.php(35): GigaAI\Core\DynamicParser->__call('parse', Array)
+#7  in /home/bini1010/public_html/kitcheno_mechanics/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code on line 9
+[12-Dec-2017 22:43:20 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function afterLocation() in /home/bini1010/public_html/kitcheno_mechanics/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code:9
+Stack trace:
+#0 [internal function]: {closure}(Object(GigaAI\MessengerBot), '212232884778089...', 'No')
+#1 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/MessengerBot.php(202): call_user_func_array(Object(Closure), Array)
+#2 [internal function]: GigaAI\MessengerBot->GigaAI\{closure}(Object(Closure))
+#3 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Core/DynamicParser.php(35): call_user_func_array(Object(Closure), Array)
+#4 [internal function]: GigaAI\Core\DynamicParser->parse(Array)
+#5 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Shared/EasyCall.php(21): call_user_func_array(Array, Array)
+#6 /home/bini1010/public_html/kitcheno_mechanics/vendor/gigaai/framework/src/Shared/EasyCall.php(35): GigaAI\Core\DynamicParser->__call('parse', Array)
+#7  in /home/bini1010/public_html/kitcheno_mechanics/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code on line 9
+[09-Jan-2018 07:42:01 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000] [1044] Access denied for user 'bini1010_admin'@'localhost' to database 'bini1010_burger_bot' in /home/bini1010/public_html/burger_bot/vendor/illuminate/database/Connectors/Connector.php:47
+Stack trace:
+#0 /home/bini1010/public_html/burger_bot/vendor/illuminate/database/Connectors/Connector.php(47): PDO->__construct('mysql:host=loca...', 'bini1010_admin', '{}+u@#xvguT.', Array)
+#1 /home/bini1010/public_html/burger_bot/vendor/illuminate/database/Connectors/MySqlConnector.php(20): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#2 /home/bini1010/public_html/burger_bot/vendor/illuminate/database/Connectors/ConnectionFactory.php(58): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#3 /home/bini1010/public_html/burger_bot/vendor/illuminate/database/Connectors/ConnectionFactory.php(47): Illuminate\Database\Connectors\ConnectionFactory->createSingleConnection(Array)
+#4 /home/bini1010/public_html/burger_bot/vendor/illum in /home/bini1010/public_html/burger_bot/vendor/illuminate/database/Connectors/Connector.php on line 47
+[10-Jan-2018 22:20:12 Asia/Manila] PHP Parse error:  syntax error, unexpected 'closeTransactionDialogue' (T_STRING) in /home/bini1010/public_html/burger_bot/vendor/gigaai/framework/src/helpers/Main.php on line 476
+[10-Jan-2018 22:21:24 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function afterLocation() in /home/bini1010/public_html/burger_bot/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code:9
+Stack trace:
+#0 [internal function]: {closure}(Object(GigaAI\MessengerBot), '147270863278172...', 'No')
+#1 /home/bini1010/public_html/burger_bot/vendor/gigaai/framework/src/MessengerBot.php(202): call_user_func_array(Object(Closure), Array)
+#2 [internal function]: GigaAI\MessengerBot->GigaAI\{closure}(Object(Closure))
+#3 /home/bini1010/public_html/burger_bot/vendor/gigaai/framework/src/Core/DynamicParser.php(35): call_user_func_array(Object(Closure), Array)
+#4 [internal function]: GigaAI\Core\DynamicParser->parse(Array)
+#5 /home/bini1010/public_html/burger_bot/vendor/gigaai/framework/src/Shared/EasyCall.php(21): call_user_func_array(Array, Array)
+#6 /home/bini1010/public_html/burger_bot/vendor/gigaai/framework/src/Shared/EasyCall.php(35): GigaAI\Core\DynamicParser->__call('parse', Array)
+#7 /home/bini1010/public_html/burger_bot/ve in /home/bini1010/public_html/burger_bot/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code on line 9
+[11-Jan-2018 08:33:05 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'transaction_num' cannot be null in /home/bini1010/public_html/burger_bot/vendor/illuminate/database/Connection.php:362
+Stack trace:
+#0 /home/bini1010/public_html/burger_bot/vendor/illuminate/database/Connection.php(362): PDOStatement->execute(Array)
+#1 /home/bini1010/public_html/burger_bot/vendor/illuminate/database/Connection.php(616): Illuminate\Database\Connection->Illuminate\Database\{closure}(Object(Illuminate\Database\MySqlConnection), 'insert into `tb...', Array)
+#2 /home/bini1010/public_html/burger_bot/vendor/illuminate/database/Connection.php(580): Illuminate\Database\Connection->runQueryCallback('insert into `tb...', Array, Object(Closure))
+#3 /home/bini1010/public_html/burger_bot/vendor/illuminate/database/Connection.php(363): Illuminate\Database\Connection->run('insert into `tb...', Array, Object(Closure))
+#4 /home/bini1010/public_html/burger_bot/vendor/illuminate/database/Connection.php(320): Illuminate\Database\ in /home/bini1010/public_html/burger_bot/vendor/illuminate/database/Connection.php on line 624
+[09-Feb-2018 09:47:26 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'bini1010_admin'@'localhost' (using password: YES) in /home/hiddent6/public_html/burger_bot/vendor/illuminate/database/Connectors/Connector.php:47
+Stack trace:
+#0 /home/hiddent6/public_html/burger_bot/vendor/illuminate/database/Connectors/Connector.php(47): PDO->__construct('mysql:host=loca...', 'bini1010_admin', '{}+u@#xvguT.', Array)
+#1 /home/hiddent6/public_html/burger_bot/vendor/illuminate/database/Connectors/MySqlConnector.php(20): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#2 /home/hiddent6/public_html/burger_bot/vendor/illuminate/database/Connectors/ConnectionFactory.php(58): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#3 /home/hiddent6/public_html/burger_bot/vendor/illuminate/database/Connectors/ConnectionFactory.php(47): Illuminate\Database\Connectors\ConnectionFactory->createSingleConnection(Array)
+#4 /home/hiddent6/public_html/burger_bot/vendor/illuminate/databa in /home/hiddent6/public_html/burger_bot/vendor/illuminate/database/Connectors/Connector.php on line 47
+[09-Feb-2018 10:27:20 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function afterLocation() in /home/hiddent6/public_html/burger_bot/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code:9
+Stack trace:
+#0 [internal function]: {closure}(Object(GigaAI\MessengerBot), '147270863278172...', 'No')
+#1 /home/hiddent6/public_html/burger_bot/vendor/gigaai/framework/src/MessengerBot.php(202): call_user_func_array(Object(Closure), Array)
+#2 [internal function]: GigaAI\MessengerBot->GigaAI\{closure}(Object(Closure))
+#3 /home/hiddent6/public_html/burger_bot/vendor/gigaai/framework/src/Core/DynamicParser.php(35): call_user_func_array(Object(Closure), Array)
+#4 [internal function]: GigaAI\Core\DynamicParser->parse(Array)
+#5 /home/hiddent6/public_html/burger_bot/vendor/gigaai/framework/src/Shared/EasyCall.php(21): call_user_func_array(Array, Array)
+#6 /home/hiddent6/public_html/burger_bot/vendor/gigaai/framework/src/Shared/EasyCall.php(35): GigaAI\Core\DynamicParser->__call('parse', Array)
+#7 /home/hiddent6/public_html/burger_bot/ve in /home/hiddent6/public_html/burger_bot/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code on line 9
+[09-Feb-2018 10:27:51 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function afterLocation() in /home/hiddent6/public_html/burger_bot/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code:9
+Stack trace:
+#0 [internal function]: {closure}(Object(GigaAI\MessengerBot), '147270863278172...', 'No')
+#1 /home/hiddent6/public_html/burger_bot/vendor/gigaai/framework/src/MessengerBot.php(202): call_user_func_array(Object(Closure), Array)
+#2 [internal function]: GigaAI\MessengerBot->GigaAI\{closure}(Object(Closure))
+#3 /home/hiddent6/public_html/burger_bot/vendor/gigaai/framework/src/Core/DynamicParser.php(35): call_user_func_array(Object(Closure), Array)
+#4 [internal function]: GigaAI\Core\DynamicParser->parse(Array)
+#5 /home/hiddent6/public_html/burger_bot/vendor/gigaai/framework/src/Shared/EasyCall.php(21): call_user_func_array(Array, Array)
+#6 /home/hiddent6/public_html/burger_bot/vendor/gigaai/framework/src/Shared/EasyCall.php(35): GigaAI\Core\DynamicParser->__call('parse', Array)
+#7 /home/hiddent6/public_html/burger_bot/ve in /home/hiddent6/public_html/burger_bot/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code on line 9
+[09-Feb-2018 11:02:01 Asia/Manila] PHP Parse error:  syntax error, unexpected '"order_receiver_details"' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/hiddent6/public_html/burger_bot/vendor/gigaai/framework/src/helpers/scripts/templates.php on line 431
+[09-Feb-2018 11:02:08 Asia/Manila] PHP Parse error:  syntax error, unexpected '"order_receiver_details"' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/hiddent6/public_html/burger_bot/vendor/gigaai/framework/src/helpers/scripts/templates.php on line 431
+[09-Feb-2018 11:25:06 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/hiddent6/public_html/burger_bot/vendor/gigaai/framework/src/helpers/scripts/extra.php:28
+Stack trace:
+#0 /home/hiddent6/public_html/burger_bot/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code(5): mapNearest(NULL, NULL)
+#1 [internal function]: GigaAI\helpers\Main->{closure}(Object(GigaAI\MessengerBot), '147270863278172...', '')
+#2 /home/hiddent6/public_html/burger_bot/vendor/gigaai/framework/src/MessengerBot.php(202): call_user_func_array(Object(Closure), Array)
+#3 [internal function]: GigaAI\MessengerBot->GigaAI\{closure}(Object(Closure))
+#4 /home/hiddent6/public_html/burger_bot/vendor/gigaai/framework/src/Core/DynamicParser.php(35): call_user_func_array(Object(Closure), Array)
+#5 [internal function]: GigaAI\Core\DynamicParser->parse(Array)
+#6 /home/hiddent6/public_html/burger_bot/vendor/gigaai/framework/src/Shared/EasyCall.php(21): call_user_func_array(Array, Array)
+#7 /home/hiddent6/public_html/burger_bot in /home/hiddent6/public_html/burger_bot/vendor/gigaai/framework/src/helpers/scripts/extra.php on line 28
+[04-Apr-2018 17:18:38 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/hiddent6/public_html/burger_bot/vendor/gigaai/framework/src/helpers/scripts/extra.php:28
+Stack trace:
+#0 /home/hiddent6/public_html/burger_bot/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code(5): mapNearest(NULL, NULL)
+#1 [internal function]: GigaAI\helpers\Main->{closure}(Object(GigaAI\MessengerBot), '147270863278172...', '')
+#2 /home/hiddent6/public_html/burger_bot/vendor/gigaai/framework/src/MessengerBot.php(202): call_user_func_array(Object(Closure), Array)
+#3 [internal function]: GigaAI\MessengerBot->GigaAI\{closure}(Object(Closure))
+#4 /home/hiddent6/public_html/burger_bot/vendor/gigaai/framework/src/Core/DynamicParser.php(35): call_user_func_array(Object(Closure), Array)
+#5 [internal function]: GigaAI\Core\DynamicParser->parse(Array)
+#6 /home/hiddent6/public_html/burger_bot/vendor/gigaai/framework/src/Shared/EasyCall.php(21): call_user_func_array(Array, Array)
+#7 /home/hiddent6/public_html/burger_bot in /home/hiddent6/public_html/burger_bot/vendor/gigaai/framework/src/helpers/scripts/extra.php on line 28
+[04-Apr-2018 17:19:07 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user_id=1472708632781728' in 'where clause' in /home/hiddent6/public_html/burger_bot/vendor/illuminate/database/Connection.php:292
+Stack trace:
+#0 /home/hiddent6/public_html/burger_bot/vendor/illuminate/database/Connection.php(292): PDO->prepare('select * from `...')
+#1 /home/hiddent6/public_html/burger_bot/vendor/illuminate/database/Connection.php(616): Illuminate\Database\Connection->Illuminate\Database\{closure}(Object(Illuminate\Database\MySqlConnection), 'select * from `...', Array)
+#2 /home/hiddent6/public_html/burger_bot/vendor/illuminate/database/Connection.php(580): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home/hiddent6/public_html/burger_bot/vendor/illuminate/database/Connection.php(297): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#4 /home/hiddent6/public_html/burger_bot/vendor/illuminate/database/Query/Builder.php(1377): Illu in /home/hiddent6/public_html/burger_bot/vendor/illuminate/database/Connection.php on line 624
+[04-Apr-2018 17:19:29 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user_id=1472708632781728' in 'where clause' in /home/hiddent6/public_html/burger_bot/vendor/illuminate/database/Connection.php:292
+Stack trace:
+#0 /home/hiddent6/public_html/burger_bot/vendor/illuminate/database/Connection.php(292): PDO->prepare('select * from `...')
+#1 /home/hiddent6/public_html/burger_bot/vendor/illuminate/database/Connection.php(616): Illuminate\Database\Connection->Illuminate\Database\{closure}(Object(Illuminate\Database\MySqlConnection), 'select * from `...', Array)
+#2 /home/hiddent6/public_html/burger_bot/vendor/illuminate/database/Connection.php(580): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home/hiddent6/public_html/burger_bot/vendor/illuminate/database/Connection.php(297): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#4 /home/hiddent6/public_html/burger_bot/vendor/illuminate/database/Query/Builder.php(1377): Illu in /home/hiddent6/public_html/burger_bot/vendor/illuminate/database/Connection.php on line 624
+[04-Apr-2018 17:20:29 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user_id=1472708632781728' in 'where clause' in /home/hiddent6/public_html/burger_bot/vendor/illuminate/database/Connection.php:292
+Stack trace:
+#0 /home/hiddent6/public_html/burger_bot/vendor/illuminate/database/Connection.php(292): PDO->prepare('select * from `...')
+#1 /home/hiddent6/public_html/burger_bot/vendor/illuminate/database/Connection.php(616): Illuminate\Database\Connection->Illuminate\Database\{closure}(Object(Illuminate\Database\MySqlConnection), 'select * from `...', Array)
+#2 /home/hiddent6/public_html/burger_bot/vendor/illuminate/database/Connection.php(580): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home/hiddent6/public_html/burger_bot/vendor/illuminate/database/Connection.php(297): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#4 /home/hiddent6/public_html/burger_bot/vendor/illuminate/database/Query/Builder.php(1377): Illu in /home/hiddent6/public_html/burger_bot/vendor/illuminate/database/Connection.php on line 624
+[04-Apr-2018 17:22:44 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user_id=1472708632781728' in 'where clause' in /home/hiddent6/public_html/burger_bot/vendor/illuminate/database/Connection.php:292
+Stack trace:
+#0 /home/hiddent6/public_html/burger_bot/vendor/illuminate/database/Connection.php(292): PDO->prepare('select * from `...')
+#1 /home/hiddent6/public_html/burger_bot/vendor/illuminate/database/Connection.php(616): Illuminate\Database\Connection->Illuminate\Database\{closure}(Object(Illuminate\Database\MySqlConnection), 'select * from `...', Array)
+#2 /home/hiddent6/public_html/burger_bot/vendor/illuminate/database/Connection.php(580): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home/hiddent6/public_html/burger_bot/vendor/illuminate/database/Connection.php(297): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#4 /home/hiddent6/public_html/burger_bot/vendor/illuminate/database/Query/Builder.php(1377): Illu in /home/hiddent6/public_html/burger_bot/vendor/illuminate/database/Connection.php on line 624
+[04-Apr-2018 17:23:36 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user_id=1472708632781728' in 'where clause' in /home/hiddent6/public_html/burger_bot/vendor/illuminate/database/Connection.php:292
+Stack trace:
+#0 /home/hiddent6/public_html/burger_bot/vendor/illuminate/database/Connection.php(292): PDO->prepare('select * from `...')
+#1 /home/hiddent6/public_html/burger_bot/vendor/illuminate/database/Connection.php(616): Illuminate\Database\Connection->Illuminate\Database\{closure}(Object(Illuminate\Database\MySqlConnection), 'select * from `...', Array)
+#2 /home/hiddent6/public_html/burger_bot/vendor/illuminate/database/Connection.php(580): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home/hiddent6/public_html/burger_bot/vendor/illuminate/database/Connection.php(297): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#4 /home/hiddent6/public_html/burger_bot/vendor/illuminate/database/Query/Builder.php(1377): Illu in /home/hiddent6/public_html/burger_bot/vendor/illuminate/database/Connection.php on line 624
+[04-Apr-2018 17:26:12 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/hiddent6/public_html/burger_bot/vendor/gigaai/framework/src/helpers/scripts/extra.php:28
+Stack trace:
+#0 /home/hiddent6/public_html/burger_bot/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code(5): mapNearest(NULL, NULL)
+#1 [internal function]: GigaAI\helpers\Main->{closure}(Object(GigaAI\MessengerBot), '147270863278172...', '')
+#2 /home/hiddent6/public_html/burger_bot/vendor/gigaai/framework/src/MessengerBot.php(202): call_user_func_array(Object(Closure), Array)
+#3 [internal function]: GigaAI\MessengerBot->GigaAI\{closure}(Object(Closure))
+#4 /home/hiddent6/public_html/burger_bot/vendor/gigaai/framework/src/Core/DynamicParser.php(35): call_user_func_array(Object(Closure), Array)
+#5 [internal function]: GigaAI\Core\DynamicParser->parse(Array)
+#6 /home/hiddent6/public_html/burger_bot/vendor/gigaai/framework/src/Shared/EasyCall.php(21): call_user_func_array(Array, Array)
+#7 /home/hiddent6/public_html/burger_bot in /home/hiddent6/public_html/burger_bot/vendor/gigaai/framework/src/helpers/scripts/extra.php on line 28
+[04-Apr-2018 17:27:11 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/hiddent6/public_html/burger_bot/vendor/gigaai/framework/src/helpers/scripts/extra.php:28
+Stack trace:
+#0 /home/hiddent6/public_html/burger_bot/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code(5): mapNearest(NULL, NULL)
+#1 [internal function]: GigaAI\helpers\Main->{closure}(Object(GigaAI\MessengerBot), '147270863278172...', '')
+#2 /home/hiddent6/public_html/burger_bot/vendor/gigaai/framework/src/MessengerBot.php(202): call_user_func_array(Object(Closure), Array)
+#3 [internal function]: GigaAI\MessengerBot->GigaAI\{closure}(Object(Closure))
+#4 /home/hiddent6/public_html/burger_bot/vendor/gigaai/framework/src/Core/DynamicParser.php(35): call_user_func_array(Object(Closure), Array)
+#5 [internal function]: GigaAI\Core\DynamicParser->parse(Array)
+#6 /home/hiddent6/public_html/burger_bot/vendor/gigaai/framework/src/Shared/EasyCall.php(21): call_user_func_array(Array, Array)
+#7 /home/hiddent6/public_html/burger_bot in /home/hiddent6/public_html/burger_bot/vendor/gigaai/framework/src/helpers/scripts/extra.php on line 28
+[04-Apr-2018 17:27:54 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/hiddent6/public_html/burger_bot/vendor/gigaai/framework/src/helpers/scripts/extra.php:28
+Stack trace:
+#0 /home/hiddent6/public_html/burger_bot/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code(5): mapNearest(NULL, NULL)
+#1 [internal function]: GigaAI\helpers\Main->{closure}(Object(GigaAI\MessengerBot), '147270863278172...', '')
+#2 /home/hiddent6/public_html/burger_bot/vendor/gigaai/framework/src/MessengerBot.php(202): call_user_func_array(Object(Closure), Array)
+#3 [internal function]: GigaAI\MessengerBot->GigaAI\{closure}(Object(Closure))
+#4 /home/hiddent6/public_html/burger_bot/vendor/gigaai/framework/src/Core/DynamicParser.php(35): call_user_func_array(Object(Closure), Array)
+#5 [internal function]: GigaAI\Core\DynamicParser->parse(Array)
+#6 /home/hiddent6/public_html/burger_bot/vendor/gigaai/framework/src/Shared/EasyCall.php(21): call_user_func_array(Array, Array)
+#7 /home/hiddent6/public_html/burger_bot in /home/hiddent6/public_html/burger_bot/vendor/gigaai/framework/src/helpers/scripts/extra.php on line 28
+[04-Apr-2018 17:28:55 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user_id=1472708632781728' in 'where clause' in /home/hiddent6/public_html/burger_bot/vendor/illuminate/database/Connection.php:292
+Stack trace:
+#0 /home/hiddent6/public_html/burger_bot/vendor/illuminate/database/Connection.php(292): PDO->prepare('select * from `...')
+#1 /home/hiddent6/public_html/burger_bot/vendor/illuminate/database/Connection.php(616): Illuminate\Database\Connection->Illuminate\Database\{closure}(Object(Illuminate\Database\MySqlConnection), 'select * from `...', Array)
+#2 /home/hiddent6/public_html/burger_bot/vendor/illuminate/database/Connection.php(580): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home/hiddent6/public_html/burger_bot/vendor/illuminate/database/Connection.php(297): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#4 /home/hiddent6/public_html/burger_bot/vendor/illuminate/database/Query/Builder.php(1377): Illu in /home/hiddent6/public_html/burger_bot/vendor/illuminate/database/Connection.php on line 624
+[04-Apr-2018 18:57:34 Asia/Manila] PHP Parse error:  syntax error, unexpected ')', expecting ';' in /home/hiddent6/public_html/burger_bot/vendor/gigaai/framework/src/helpers/scripts/extra.php on line 59
+[04-Apr-2018 18:57:34 Asia/Manila] PHP Parse error:  syntax error, unexpected ')', expecting ';' in /home/hiddent6/public_html/burger_bot/vendor/gigaai/framework/src/helpers/scripts/extra.php on line 59
+[04-Apr-2018 18:57:45 Asia/Manila] PHP Parse error:  syntax error, unexpected ')', expecting ';' in /home/hiddent6/public_html/burger_bot/vendor/gigaai/framework/src/helpers/scripts/extra.php on line 59
+[04-Apr-2018 18:58:04 Asia/Manila] PHP Parse error:  syntax error, unexpected ')', expecting ';' in /home/hiddent6/public_html/burger_bot/vendor/gigaai/framework/src/helpers/scripts/extra.php on line 59
+[04-Apr-2018 20:54:25 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on integer in /home/hiddent6/public_html/burger_bot/vendor/gigaai/framework/src/helpers/scripts/manager.php:84
+Stack trace:
+#0 /home/hiddent6/public_html/burger_bot/public/seeder.php(18): flushCustomerMenuIndexer('147270863278172...')
+#1 {main}
+  thrown in /home/hiddent6/public_html/burger_bot/vendor/gigaai/framework/src/helpers/scripts/manager.php on line 84
+[04-Apr-2018 21:03:51 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function flushCustomerMenuIndexer() in /home/hiddent6/public_html/burger_bot/public/seeder.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/hiddent6/public_html/burger_bot/public/seeder.php on line 18
+[04-Apr-2018 21:47:24 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function flushCustomerMenuIndexer() in /home/hiddent6/public_html/burger_bot/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code:4
+Stack trace:
+#0 [internal function]: {closure}(Object(GigaAI\MessengerBot), '147270863278172...', '')
+#1 /home/hiddent6/public_html/burger_bot/vendor/gigaai/framework/src/MessengerBot.php(202): call_user_func_array(Object(Closure), Array)
+#2 [internal function]: GigaAI\MessengerBot->GigaAI\{closure}(Object(Closure))
+#3 /home/hiddent6/public_html/burger_bot/vendor/gigaai/framework/src/Core/DynamicParser.php(35): call_user_func_array(Object(Closure), Array)
+#4 [internal function]: GigaAI\Core\DynamicParser->parse(Array)
+#5 /home/hiddent6/public_html/burger_bot/vendor/gigaai/framework/src/Shared/EasyCall.php(21): call_user_func_array(Array, Array)
+#6 /home/hiddent6/public_html/burger_bot/vendor/gigaai/framework/src/Shared/EasyCall.php(35): GigaAI\Core\DynamicParser->__call('parse', Array)
+#7 /home/hiddent6/public_html/burg in /home/hiddent6/public_html/burger_bot/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code on line 4
+[04-Apr-2018 21:48:48 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function flushCustomerMenuIndexer() in /home/hiddent6/public_html/burger_bot/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code:4
+Stack trace:
+#0 [internal function]: {closure}(Object(GigaAI\MessengerBot), '147270863278172...', '')
+#1 /home/hiddent6/public_html/burger_bot/vendor/gigaai/framework/src/MessengerBot.php(202): call_user_func_array(Object(Closure), Array)
+#2 [internal function]: GigaAI\MessengerBot->GigaAI\{closure}(Object(Closure))
+#3 /home/hiddent6/public_html/burger_bot/vendor/gigaai/framework/src/Core/DynamicParser.php(35): call_user_func_array(Object(Closure), Array)
+#4 [internal function]: GigaAI\Core\DynamicParser->parse(Array)
+#5 /home/hiddent6/public_html/burger_bot/vendor/gigaai/framework/src/Shared/EasyCall.php(21): call_user_func_array(Array, Array)
+#6 /home/hiddent6/public_html/burger_bot/vendor/gigaai/framework/src/Shared/EasyCall.php(35): GigaAI\Core\DynamicParser->__call('parse', Array)
+#7 /home/hiddent6/public_html/burg in /home/hiddent6/public_html/burger_bot/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code on line 4
+[04-Apr-2018 21:48:59 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function flushCustomerMenuIndexer() in /home/hiddent6/public_html/burger_bot/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code:4
+Stack trace:
+#0 [internal function]: {closure}(Object(GigaAI\MessengerBot), '147270863278172...', '')
+#1 /home/hiddent6/public_html/burger_bot/vendor/gigaai/framework/src/MessengerBot.php(202): call_user_func_array(Object(Closure), Array)
+#2 [internal function]: GigaAI\MessengerBot->GigaAI\{closure}(Object(Closure))
+#3 /home/hiddent6/public_html/burger_bot/vendor/gigaai/framework/src/Core/DynamicParser.php(35): call_user_func_array(Object(Closure), Array)
+#4 [internal function]: GigaAI\Core\DynamicParser->parse(Array)
+#5 /home/hiddent6/public_html/burger_bot/vendor/gigaai/framework/src/Shared/EasyCall.php(21): call_user_func_array(Array, Array)
+#6 /home/hiddent6/public_html/burger_bot/vendor/gigaai/framework/src/Shared/EasyCall.php(35): GigaAI\Core\DynamicParser->__call('parse', Array)
+#7 /home/hiddent6/public_html/burg in /home/hiddent6/public_html/burger_bot/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code on line 4
+[04-Apr-2018 21:53:38 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function flushCustomerMenuIndexer() in /home/hiddent6/public_html/burger_bot/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code:4
+Stack trace:
+#0 [internal function]: {closure}(Object(GigaAI\MessengerBot), '147270863278172...', '')
+#1 /home/hiddent6/public_html/burger_bot/vendor/gigaai/framework/src/MessengerBot.php(202): call_user_func_array(Object(Closure), Array)
+#2 [internal function]: GigaAI\MessengerBot->GigaAI\{closure}(Object(Closure))
+#3 /home/hiddent6/public_html/burger_bot/vendor/gigaai/framework/src/Core/DynamicParser.php(35): call_user_func_array(Object(Closure), Array)
+#4 [internal function]: GigaAI\Core\DynamicParser->parse(Array)
+#5 /home/hiddent6/public_html/burger_bot/vendor/gigaai/framework/src/Shared/EasyCall.php(21): call_user_func_array(Array, Array)
+#6 /home/hiddent6/public_html/burger_bot/vendor/gigaai/framework/src/Shared/EasyCall.php(35): GigaAI\Core\DynamicParser->__call('parse', Array)
+#7 /home/hiddent6/public_html/burg in /home/hiddent6/public_html/burger_bot/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code on line 4
+[04-Apr-2018 21:54:46 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function flushCustomerMenuIndexer() in /home/hiddent6/public_html/burger_bot/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code:4
+Stack trace:
+#0 [internal function]: {closure}(Object(GigaAI\MessengerBot), '147270863278172...', '')
+#1 /home/hiddent6/public_html/burger_bot/vendor/gigaai/framework/src/MessengerBot.php(202): call_user_func_array(Object(Closure), Array)
+#2 [internal function]: GigaAI\MessengerBot->GigaAI\{closure}(Object(Closure))
+#3 /home/hiddent6/public_html/burger_bot/vendor/gigaai/framework/src/Core/DynamicParser.php(35): call_user_func_array(Object(Closure), Array)
+#4 [internal function]: GigaAI\Core\DynamicParser->parse(Array)
+#5 /home/hiddent6/public_html/burger_bot/vendor/gigaai/framework/src/Shared/EasyCall.php(21): call_user_func_array(Array, Array)
+#6 /home/hiddent6/public_html/burger_bot/vendor/gigaai/framework/src/Shared/EasyCall.php(35): GigaAI\Core\DynamicParser->__call('parse', Array)
+#7 /home/hiddent6/public_html/burg in /home/hiddent6/public_html/burger_bot/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code on line 4
+[04-Apr-2018 21:57:35 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function flushCustomerMenuIndexer() in /home/hiddent6/public_html/burger_bot/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code:4
+Stack trace:
+#0 [internal function]: {closure}(Object(GigaAI\MessengerBot), '147270863278172...', '')
+#1 /home/hiddent6/public_html/burger_bot/vendor/gigaai/framework/src/MessengerBot.php(202): call_user_func_array(Object(Closure), Array)
+#2 [internal function]: GigaAI\MessengerBot->GigaAI\{closure}(Object(Closure))
+#3 /home/hiddent6/public_html/burger_bot/vendor/gigaai/framework/src/Core/DynamicParser.php(35): call_user_func_array(Object(Closure), Array)
+#4 [internal function]: GigaAI\Core\DynamicParser->parse(Array)
+#5 /home/hiddent6/public_html/burger_bot/vendor/gigaai/framework/src/Shared/EasyCall.php(21): call_user_func_array(Array, Array)
+#6 /home/hiddent6/public_html/burger_bot/vendor/gigaai/framework/src/Shared/EasyCall.php(35): GigaAI\Core\DynamicParser->__call('parse', Array)
+#7 /home/hiddent6/public_html/burg in /home/hiddent6/public_html/burger_bot/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code on line 4
+[04-Apr-2018 21:59:08 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined function flushCustomerMenuIndexer() in /home/hiddent6/public_html/burger_bot/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code:4
+Stack trace:
+#0 [internal function]: {closure}(Object(GigaAI\MessengerBot), '147270863278172...', '')
+#1 /home/hiddent6/public_html/burger_bot/vendor/gigaai/framework/src/MessengerBot.php(202): call_user_func_array(Object(Closure), Array)
+#2 [internal function]: GigaAI\MessengerBot->GigaAI\{closure}(Object(Closure))
+#3 /home/hiddent6/public_html/burger_bot/vendor/gigaai/framework/src/Core/DynamicParser.php(35): call_user_func_array(Object(Closure), Array)
+#4 [internal function]: GigaAI\Core\DynamicParser->parse(Array)
+#5 /home/hiddent6/public_html/burger_bot/vendor/gigaai/framework/src/Shared/EasyCall.php(21): call_user_func_array(Array, Array)
+#6 /home/hiddent6/public_html/burger_bot/vendor/gigaai/framework/src/Shared/EasyCall.php(35): GigaAI\Core\DynamicParser->__call('parse', Array)
+#7 /home/hiddent6/public_html/burg in /home/hiddent6/public_html/burger_bot/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code on line 4
+[04-Apr-2018 22:06:31 Asia/Manila] PHP Parse error:  syntax error, unexpected ')' in /home/hiddent6/public_html/burger_bot/vendor/gigaai/framework/src/helpers/Main.php on line 676
+[04-Apr-2018 23:04:40 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on integer in /home/hiddent6/public_html/burger_bot/vendor/gigaai/framework/src/helpers/scripts/manager.php:84
+Stack trace:
+#0 /home/hiddent6/public_html/burger_bot/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code(4): flushCustomerIndexers('147270863278172...')
+#1 [internal function]: {closure}(Object(GigaAI\MessengerBot), '147270863278172...', '')
+#2 /home/hiddent6/public_html/burger_bot/vendor/gigaai/framework/src/MessengerBot.php(202): call_user_func_array(Object(Closure), Array)
+#3 [internal function]: GigaAI\MessengerBot->GigaAI\{closure}(Object(Closure))
+#4 /home/hiddent6/public_html/burger_bot/vendor/gigaai/framework/src/Core/DynamicParser.php(35): call_user_func_array(Object(Closure), Array)
+#5 [internal function]: GigaAI\Core\DynamicParser->parse(Array)
+#6 /home/hiddent6/public_html/burger_bot/vendor/gigaai/framework/src/Shared/EasyCall.php(21): call_user_func_array(Array, Array)
+#7 /home/hiddent6/public_html/burger_b in /home/hiddent6/public_html/burger_bot/vendor/gigaai/framework/src/helpers/scripts/manager.php on line 84
+[04-Apr-2018 23:04:52 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on integer in /home/hiddent6/public_html/burger_bot/vendor/gigaai/framework/src/helpers/scripts/manager.php:84
+Stack trace:
+#0 /home/hiddent6/public_html/burger_bot/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code(4): flushCustomerIndexers('147270863278172...')
+#1 [internal function]: {closure}(Object(GigaAI\MessengerBot), '147270863278172...', '')
+#2 /home/hiddent6/public_html/burger_bot/vendor/gigaai/framework/src/MessengerBot.php(202): call_user_func_array(Object(Closure), Array)
+#3 [internal function]: GigaAI\MessengerBot->GigaAI\{closure}(Object(Closure))
+#4 /home/hiddent6/public_html/burger_bot/vendor/gigaai/framework/src/Core/DynamicParser.php(35): call_user_func_array(Object(Closure), Array)
+#5 [internal function]: GigaAI\Core\DynamicParser->parse(Array)
+#6 /home/hiddent6/public_html/burger_bot/vendor/gigaai/framework/src/Shared/EasyCall.php(21): call_user_func_array(Array, Array)
+#7 /home/hiddent6/public_html/burger_b in /home/hiddent6/public_html/burger_bot/vendor/gigaai/framework/src/helpers/scripts/manager.php on line 84
+[04-Apr-2018 23:17:24 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on integer in /home/hiddent6/public_html/burger_bot/vendor/gigaai/framework/src/helpers/scripts/manager.php:84
+Stack trace:
+#0 /home/hiddent6/public_html/burger_bot/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code(4): flushCustomerIndexers('147270863278172...')
+#1 [internal function]: {closure}(Object(GigaAI\MessengerBot), '147270863278172...', '')
+#2 /home/hiddent6/public_html/burger_bot/vendor/gigaai/framework/src/MessengerBot.php(202): call_user_func_array(Object(Closure), Array)
+#3 [internal function]: GigaAI\MessengerBot->GigaAI\{closure}(Object(Closure))
+#4 /home/hiddent6/public_html/burger_bot/vendor/gigaai/framework/src/Core/DynamicParser.php(35): call_user_func_array(Object(Closure), Array)
+#5 [internal function]: GigaAI\Core\DynamicParser->parse(Array)
+#6 /home/hiddent6/public_html/burger_bot/vendor/gigaai/framework/src/Shared/EasyCall.php(21): call_user_func_array(Array, Array)
+#7 /home/hiddent6/public_html/burger_b in /home/hiddent6/public_html/burger_bot/vendor/gigaai/framework/src/helpers/scripts/manager.php on line 84
