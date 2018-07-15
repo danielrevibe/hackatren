@@ -1047,3 +1047,56 @@ Stack trace:
 #5 [internal function]: GigaAI\Core\DynamicParser->parse(Array)
 #6 /home/hiddent6/public_html/burger_bot/vendor/gigaai/framework/src/Shared/EasyCall.php(21): call_user_func_array(Array, Array)
 #7 /home/hiddent6/public_html/burger_b in /home/hiddent6/public_html/burger_bot/vendor/gigaai/framework/src/helpers/scripts/manager.php on line 84
+[13-Jul-2018 22:28:43 CST6CDT] PHP Parse error:  syntax error, unexpected '}' in /home/hiddent6/public_html/train_bot/vendor/gigaai/framework/src/helpers/Main.php on line 69
+[13-Jul-2018 22:28:54 CST6CDT] PHP Parse error:  syntax error, unexpected '}' in /home/hiddent6/public_html/train_bot/vendor/gigaai/framework/src/helpers/Main.php on line 69
+[14-Jul-2018 11:35:08 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function defaults() on null in /home/hiddent6/public_html/train_bot/public/seeder.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hiddent6/public_html/train_bot/public/seeder.php on line 12
+[14-Jul-2018 11:37:12 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function defaults() on null in /home/hiddent6/public_html/train_bot/public/seeder.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/hiddent6/public_html/train_bot/public/seeder.php on line 12
+[14-Jul-2018 11:38:46 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined method GigaAI\helpers\Main::payloads() in /home/hiddent6/public_html/train_bot/public/seeder.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/hiddent6/public_html/train_bot/public/seeder.php on line 15
+[14-Jul-2018 11:42:19 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'hiddent6_admin'@'localhost' (using password: YES) in /home/hiddent6/public_html/train_bot/vendor/illuminate/database/Connectors/Connector.php:47
+Stack trace:
+#0 /home/hiddent6/public_html/train_bot/vendor/illuminate/database/Connectors/Connector.php(47): PDO->__construct('mysql:host=loca...', 'hiddent6_admin', '{}+u@#xvguT.', Array)
+#1 /home/hiddent6/public_html/train_bot/vendor/illuminate/database/Connectors/MySqlConnector.php(20): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#2 /home/hiddent6/public_html/train_bot/vendor/illuminate/database/Connectors/ConnectionFactory.php(58): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#3 /home/hiddent6/public_html/train_bot/vendor/illuminate/database/Connectors/ConnectionFactory.php(47): Illuminate\Database\Connectors\ConnectionFactory->createSingleConnection(Array)
+#4 /home/hiddent6/public_html/train_bot/vendor/illuminate/database/Dat in /home/hiddent6/public_html/train_bot/vendor/illuminate/database/Connectors/Connector.php on line 47
+[14-Jul-2018 11:44:12 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000] [1044] Access denied for user 'hiddent6_admin2'@'localhost' to database 'hiddent6_hackatren' in /home/hiddent6/public_html/train_bot/vendor/illuminate/database/Connectors/Connector.php:47
+Stack trace:
+#0 /home/hiddent6/public_html/train_bot/vendor/illuminate/database/Connectors/Connector.php(47): PDO->__construct('mysql:host=loca...', 'hiddent6_admin2', '{}+u@#xvguT.', Array)
+#1 /home/hiddent6/public_html/train_bot/vendor/illuminate/database/Connectors/MySqlConnector.php(20): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#2 /home/hiddent6/public_html/train_bot/vendor/illuminate/database/Connectors/ConnectionFactory.php(58): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#3 /home/hiddent6/public_html/train_bot/vendor/illuminate/database/Connectors/ConnectionFactory.php(47): Illuminate\Database\Connectors\ConnectionFactory->createSingleConnection(Array)
+#4 /home/hiddent6/public_html/train_bot/vendor/illuminate in /home/hiddent6/public_html/train_bot/vendor/illuminate/database/Connectors/Connector.php on line 47
+[14-Jul-2018 11:44:14 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000] [1044] Access denied for user 'hiddent6_admin2'@'localhost' to database 'hiddent6_hackatren' in /home/hiddent6/public_html/train_bot/vendor/illuminate/database/Connectors/Connector.php:47
+Stack trace:
+#0 /home/hiddent6/public_html/train_bot/vendor/illuminate/database/Connectors/Connector.php(47): PDO->__construct('mysql:host=loca...', 'hiddent6_admin2', '{}+u@#xvguT.', Array)
+#1 /home/hiddent6/public_html/train_bot/vendor/illuminate/database/Connectors/MySqlConnector.php(20): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#2 /home/hiddent6/public_html/train_bot/vendor/illuminate/database/Connectors/ConnectionFactory.php(58): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#3 /home/hiddent6/public_html/train_bot/vendor/illuminate/database/Connectors/ConnectionFactory.php(47): Illuminate\Database\Connectors\ConnectionFactory->createSingleConnection(Array)
+#4 /home/hiddent6/public_html/train_bot/vendor/illuminate in /home/hiddent6/public_html/train_bot/vendor/illuminate/database/Connectors/Connector.php on line 47
+[14-Jul-2018 04:33:27 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/hiddent6/public_html/train_bot/vendor/gigaai/framework/src/helpers/Main.php on line 78
+[15-Jul-2018 07:13:06 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'hiddent6_burger_bot.bot_train_stations' doesn't exist in /home/hiddent6/public_html/train_bot/vendor/gigaai/framework/src/helpers/scripts/extra.php:27
+Stack trace:
+#0 /home/hiddent6/public_html/train_bot/vendor/gigaai/framework/src/helpers/scripts/extra.php(27): PDO->query('SELECT station_...')
+#1 /home/hiddent6/public_html/train_bot/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code(3): mapNearest(14.558534, 121.038939)
+#2 [internal function]: {closure}(Object(GigaAI\MessengerBot), '194641047877371...', '')
+#3 /home/hiddent6/public_html/train_bot/vendor/gigaai/framework/src/MessengerBot.php(202): call_user_func_array(Object(Closure), Array)
+#4 [internal function]: GigaAI\MessengerBot->GigaAI\{closure}(Object(Closure))
+#5 /home/hiddent6/public_html/train_bot/vendor/gigaai/framework/src/Core/DynamicParser.php(35): call_user_func_array(Object(Closure), Array)
+#6 [internal function]: GigaAI\Core\Dynamic in /home/hiddent6/public_html/train_bot/vendor/gigaai/framework/src/helpers/scripts/extra.php on line 27
+[14-Jul-2018 18:36:31 CST6CDT] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/hiddent6/public_html/train_bot/vendor/gigaai/framework/src/helpers/Main.php on line 188
+[14-Jul-2018 18:52:22 CST6CDT] PHP Parse error:  syntax error, unexpected '}' in /home/hiddent6/public_html/train_bot/vendor/gigaai/framework/src/helpers/Main.php on line 183
+[14-Jul-2018 18:59:21 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'GigaAI\helpers\Main' not found in /home/hiddent6/public_html/train_bot/vendor/gigaai/framework/src/MessengerBot.php:113
+Stack trace:
+#0 /home/hiddent6/public_html/train_bot/bootstrap/bot.php(38): GigaAI\MessengerBot->__construct()
+#1 /home/hiddent6/public_html/train_bot/public/index.php(11): require_once('/home/hiddent6/...')
+#2 {main}
+  thrown in /home/hiddent6/public_html/train_bot/vendor/gigaai/framework/src/MessengerBot.php on line 113
