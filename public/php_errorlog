@@ -1100,3 +1100,10 @@ Stack trace:
 #1 /home/hiddent6/public_html/train_bot/public/index.php(11): require_once('/home/hiddent6/...')
 #2 {main}
   thrown in /home/hiddent6/public_html/train_bot/vendor/gigaai/framework/src/MessengerBot.php on line 113
+[14-Jul-2018 19:20:56 CST6CDT] PHP Parse error:  syntax error, unexpected '}' in /home/hiddent6/public_html/train_bot/vendor/gigaai/framework/src/helpers/Main.php on line 282
+[14-Jul-2018 19:32:54 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'GigaAI\helpers\Main' not found in /home/hiddent6/public_html/train_bot/vendor/gigaai/framework/src/MessengerBot.php:113
+Stack trace:
+#0 /home/hiddent6/public_html/train_bot/bootstrap/bot.php(38): GigaAI\MessengerBot->__construct()
+#1 /home/hiddent6/public_html/train_bot/public/index.php(11): require_once('/home/hiddent6/...')
+#2 {main}
+  thrown in /home/hiddent6/public_html/train_bot/vendor/gigaai/framework/src/MessengerBot.php on line 113
